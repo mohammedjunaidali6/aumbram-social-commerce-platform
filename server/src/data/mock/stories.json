@@ -1,0 +1,5904 @@
+[
+  {
+    "id": "sty_0001",
+    "creatorId": "crt_0004",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/1/0.mp4",
+        "durationMs": 12764,
+        "posterUrl": "https://picsum.photos/seed/sty1-0/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/1/1.mp4",
+        "durationMs": 13692,
+        "posterUrl": "https://picsum.photos/seed/sty1-1/720/1280"
+      }
+    ],
+    "caption": "Styling this for Diwali 🪔",
+    "taggedProducts": [
+      {
+        "productId": "prd_0098",
+        "segmentIndex": 0,
+        "x": 0.1,
+        "y": 0.13
+      },
+      {
+        "productId": "prd_0093",
+        "segmentIndex": 1,
+        "x": 0.71,
+        "y": 0.19
+      }
+    ],
+    "publishedAt": "2026-08-14T22:43:18Z",
+    "expiresAt": "2026-08-15T22:43:18Z",
+    "stats": {
+      "views": 163099,
+      "likes": 16761,
+      "shares": 1608
+    }
+  },
+  {
+    "id": "sty_0002",
+    "creatorId": "crt_0007",
+    "segments": [
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty2-0/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/2/1.mp4",
+        "durationMs": 11341,
+        "posterUrl": "https://picsum.photos/seed/sty2-1/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/2/2.mp4",
+        "durationMs": 13330,
+        "posterUrl": "https://picsum.photos/seed/sty2-2/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty2-3/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty2-4/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty2-5/720/1280",
+        "durationMs": 5000
+      }
+    ],
+    "caption": "Is it worth the hype? Honest review",
+    "taggedProducts": [
+      {
+        "productId": "prd_0099",
+        "segmentIndex": 0,
+        "x": 0.25,
+        "y": 0.65
+      },
+      {
+        "productId": "prd_0044",
+        "segmentIndex": 2,
+        "x": 0.53,
+        "y": 0.65
+      },
+      {
+        "productId": "prd_0054",
+        "segmentIndex": 3,
+        "x": 0.84,
+        "y": 0.49
+      },
+      {
+        "productId": "prd_0101",
+        "segmentIndex": 4,
+        "x": 0.02,
+        "y": 0.12
+      },
+      {
+        "productId": "prd_0128",
+        "segmentIndex": 5,
+        "x": 0.79,
+        "y": 0.04
+      }
+    ],
+    "publishedAt": "2026-08-23T07:07:53Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 44357,
+      "likes": 3229,
+      "shares": 2825
+    }
+  },
+  {
+    "id": "sty_0003",
+    "creatorId": "crt_0014",
+    "segments": [
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty3-0/720/1280",
+        "durationMs": 5000
+      }
+    ],
+    "caption": "Is it worth the hype? Honest review",
+    "taggedProducts": [
+      {
+        "productId": "prd_0071",
+        "segmentIndex": 0,
+        "x": 0.18,
+        "y": 0.43
+      }
+    ],
+    "publishedAt": "2026-09-02T22:27:13Z",
+    "expiresAt": "2026-09-03T22:27:13Z",
+    "stats": {
+      "views": 81374,
+      "likes": 16223,
+      "shares": 672
+    }
+  },
+  {
+    "id": "sty_0004",
+    "creatorId": "crt_0026",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/4/0.mp4",
+        "durationMs": 5726,
+        "posterUrl": "https://picsum.photos/seed/sty4-0/720/1280"
+      }
+    ],
+    "caption": "Gifting ideas for Rakhi",
+    "taggedProducts": [],
+    "publishedAt": "2026-08-19T19:23:47Z",
+    "expiresAt": "2026-08-20T19:23:47Z",
+    "stats": {
+      "views": 129291,
+      "likes": 4279,
+      "shares": 43
+    }
+  },
+  {
+    "id": "sty_0005",
+    "creatorId": "crt_0002",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/5/0.mp4",
+        "durationMs": 7488,
+        "posterUrl": "https://picsum.photos/seed/sty5-0/720/1280"
+      }
+    ],
+    "caption": "Under ₹999 finds you'll love",
+    "taggedProducts": [],
+    "publishedAt": "2026-08-02T13:13:35Z",
+    "expiresAt": "2026-08-03T13:13:35Z",
+    "stats": {
+      "views": 143169,
+      "likes": 2493,
+      "shares": 1852
+    }
+  },
+  {
+    "id": "sty_0006",
+    "creatorId": "crt_0017",
+    "segments": [
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty6-0/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty6-1/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/6/2.mp4",
+        "durationMs": 5536,
+        "posterUrl": "https://picsum.photos/seed/sty6-2/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/6/3.mp4",
+        "durationMs": 10444,
+        "posterUrl": "https://picsum.photos/seed/sty6-3/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/6/4.mp4",
+        "durationMs": 14788,
+        "posterUrl": "https://picsum.photos/seed/sty6-4/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/6/5.mp4",
+        "durationMs": 6485,
+        "posterUrl": "https://picsum.photos/seed/sty6-5/720/1280"
+      }
+    ],
+    "caption": "Behind the loom with the artisans",
+    "taggedProducts": [
+      {
+        "productId": "prd_0124",
+        "segmentIndex": 3,
+        "x": 0.19,
+        "y": 0.96
+      }
+    ],
+    "publishedAt": "2026-09-01T14:08:53Z",
+    "expiresAt": "2026-09-02T14:08:53Z",
+    "stats": {
+      "views": 147090,
+      "likes": 9592,
+      "shares": 1803
+    }
+  },
+  {
+    "id": "sty_0007",
+    "creatorId": "crt_0034",
+    "segments": [
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty7-0/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/7/1.mp4",
+        "durationMs": 5660,
+        "posterUrl": "https://picsum.photos/seed/sty7-1/720/1280"
+      }
+    ],
+    "caption": "Yeh kurta toh must-have hai!",
+    "taggedProducts": [
+      {
+        "productId": "prd_0043",
+        "segmentIndex": 0,
+        "x": 0.73,
+        "y": 0.14
+      },
+      {
+        "productId": "prd_0178",
+        "segmentIndex": 1,
+        "x": 0.52,
+        "y": 0.51
+      }
+    ],
+    "publishedAt": "2026-09-06T15:41:10Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 165528,
+      "likes": 8663,
+      "shares": 2082
+    }
+  },
+  {
+    "id": "sty_0008",
+    "creatorId": "crt_0024",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/8/0.mp4",
+        "durationMs": 7983,
+        "posterUrl": "https://picsum.photos/seed/sty8-0/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/8/1.mp4",
+        "durationMs": 5249,
+        "posterUrl": "https://picsum.photos/seed/sty8-1/720/1280"
+      }
+    ],
+    "caption": "Gifting ideas for Rakhi",
+    "taggedProducts": [
+      {
+        "productId": "prd_0179",
+        "segmentIndex": 0,
+        "x": 0.48,
+        "y": 0.37
+      },
+      {
+        "productId": "prd_0095",
+        "segmentIndex": 1,
+        "x": 0.28,
+        "y": 0.95
+      }
+    ],
+    "publishedAt": "2026-08-10T03:31:32Z",
+    "expiresAt": "2026-08-11T03:31:32Z",
+    "stats": {
+      "views": 62394,
+      "likes": 19024,
+      "shares": 2396
+    }
+  },
+  {
+    "id": "sty_0009",
+    "creatorId": "crt_0007",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/9/0.mp4",
+        "durationMs": 8439,
+        "posterUrl": "https://picsum.photos/seed/sty9-0/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty9-1/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty9-2/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/9/3.mp4",
+        "durationMs": 7321,
+        "posterUrl": "https://picsum.photos/seed/sty9-3/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/9/4.mp4",
+        "durationMs": 12425,
+        "posterUrl": "https://picsum.photos/seed/sty9-4/720/1280"
+      }
+    ],
+    "caption": "Is it worth the hype? Honest review",
+    "taggedProducts": [
+      {
+        "productId": "prd_0069",
+        "segmentIndex": 2,
+        "x": 0.6,
+        "y": 0.18
+      },
+      {
+        "productId": "prd_0002",
+        "segmentIndex": 3,
+        "x": 0.11,
+        "y": 0.8
+      }
+    ],
+    "publishedAt": "2026-08-26T00:49:20Z",
+    "expiresAt": "2026-08-27T00:49:20Z",
+    "stats": {
+      "views": 155854,
+      "likes": 8577,
+      "shares": 2983
+    }
+  },
+  {
+    "id": "sty_0010",
+    "creatorId": "crt_0031",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/10/0.mp4",
+        "durationMs": 14239,
+        "posterUrl": "https://picsum.photos/seed/sty10-0/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty10-1/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/10/2.mp4",
+        "durationMs": 5273,
+        "posterUrl": "https://picsum.photos/seed/sty10-2/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/10/3.mp4",
+        "durationMs": 6576,
+        "posterUrl": "https://picsum.photos/seed/sty10-3/720/1280"
+      }
+    ],
+    "caption": "Yeh kurta toh must-have hai!",
+    "taggedProducts": [
+      {
+        "productId": "prd_0076",
+        "segmentIndex": 0,
+        "x": 0.76,
+        "y": 0.74
+      }
+    ],
+    "publishedAt": "2026-08-19T01:59:52Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 232771,
+      "likes": 8626,
+      "shares": 2069
+    }
+  },
+  {
+    "id": "sty_0011",
+    "creatorId": "crt_0006",
+    "segments": [
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty11-0/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/11/1.mp4",
+        "durationMs": 8551,
+        "posterUrl": "https://picsum.photos/seed/sty11-1/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/11/2.mp4",
+        "durationMs": 11124,
+        "posterUrl": "https://picsum.photos/seed/sty11-2/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/11/3.mp4",
+        "durationMs": 8464,
+        "posterUrl": "https://picsum.photos/seed/sty11-3/720/1280"
+      }
+    ],
+    "caption": "Monsoon-ready cottons",
+    "taggedProducts": [
+      {
+        "productId": "prd_0046",
+        "segmentIndex": 1,
+        "x": 0.1,
+        "y": 0.5
+      },
+      {
+        "productId": "prd_0045",
+        "segmentIndex": 2,
+        "x": 0.48,
+        "y": 0.42
+      }
+    ],
+    "publishedAt": "2026-08-30T04:53:25Z",
+    "expiresAt": "2026-08-31T04:53:25Z",
+    "stats": {
+      "views": 28264,
+      "likes": 628,
+      "shares": 262
+    }
+  },
+  {
+    "id": "sty_0012",
+    "creatorId": "crt_0019",
+    "segments": [
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty12-0/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty12-1/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty12-2/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty12-3/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/12/4.mp4",
+        "durationMs": 13540,
+        "posterUrl": "https://picsum.photos/seed/sty12-4/720/1280"
+      }
+    ],
+    "caption": "Yeh kurta toh must-have hai!",
+    "taggedProducts": [
+      {
+        "productId": "prd_0067",
+        "segmentIndex": 0,
+        "x": 0.3,
+        "y": 0.29
+      },
+      {
+        "productId": "prd_0175",
+        "segmentIndex": 2,
+        "x": 0.18,
+        "y": 0.29
+      },
+      {
+        "productId": "prd_0084",
+        "segmentIndex": 3,
+        "x": 0.2,
+        "y": 0.48
+      },
+      {
+        "productId": "prd_0111",
+        "segmentIndex": 4,
+        "x": 0.75,
+        "y": 0.5
+      }
+    ],
+    "publishedAt": "2026-08-14T23:57:20Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 189863,
+      "likes": 4077,
+      "shares": 384
+    }
+  },
+  {
+    "id": "sty_0013",
+    "creatorId": "crt_0022",
+    "segments": [
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty13-0/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/13/1.mp4",
+        "durationMs": 8580,
+        "posterUrl": "https://picsum.photos/seed/sty13-1/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/13/2.mp4",
+        "durationMs": 7304,
+        "posterUrl": "https://picsum.photos/seed/sty13-2/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/13/3.mp4",
+        "durationMs": 8272,
+        "posterUrl": "https://picsum.photos/seed/sty13-3/720/1280"
+      }
+    ],
+    "caption": "Gifting ideas for Rakhi",
+    "taggedProducts": [
+      {
+        "productId": "prd_0048",
+        "segmentIndex": 0,
+        "x": 0.56,
+        "y": 0.27
+      },
+      {
+        "productId": "prd_0002",
+        "segmentIndex": 2,
+        "x": 0.03,
+        "y": 0.78
+      }
+    ],
+    "publishedAt": "2026-09-07T05:34:19Z",
+    "expiresAt": "2026-09-08T05:34:19Z",
+    "stats": {
+      "views": 157926,
+      "likes": 5037,
+      "shares": 720
+    }
+  },
+  {
+    "id": "sty_0014",
+    "creatorId": "crt_0014",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/14/0.mp4",
+        "durationMs": 8455,
+        "posterUrl": "https://picsum.photos/seed/sty14-0/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty14-1/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty14-2/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty14-3/720/1280",
+        "durationMs": 5000
+      }
+    ],
+    "caption": "Styling this for Diwali 🪔",
+    "taggedProducts": [
+      {
+        "productId": "prd_0125",
+        "segmentIndex": 0,
+        "x": 0.01,
+        "y": 0.85
+      }
+    ],
+    "publishedAt": "2026-08-20T23:48:07Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 42789,
+      "likes": 13934,
+      "shares": 2267
+    }
+  },
+  {
+    "id": "sty_0015",
+    "creatorId": "crt_0011",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/15/0.mp4",
+        "durationMs": 12454,
+        "posterUrl": "https://picsum.photos/seed/sty15-0/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty15-1/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty15-2/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty15-3/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/15/4.mp4",
+        "durationMs": 7824,
+        "posterUrl": "https://picsum.photos/seed/sty15-4/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/15/5.mp4",
+        "durationMs": 5173,
+        "posterUrl": "https://picsum.photos/seed/sty15-5/720/1280"
+      }
+    ],
+    "caption": "Gifting ideas for Rakhi",
+    "taggedProducts": [
+      {
+        "productId": "prd_0038",
+        "segmentIndex": 0,
+        "x": 0.56,
+        "y": 0.21
+      },
+      {
+        "productId": "prd_0042",
+        "segmentIndex": 1,
+        "x": 0.19,
+        "y": 0.67
+      },
+      {
+        "productId": "prd_0155",
+        "segmentIndex": 2,
+        "x": 0.5,
+        "y": 0.43
+      }
+    ],
+    "publishedAt": "2026-09-01T16:25:29Z",
+    "expiresAt": "2026-09-02T16:25:29Z",
+    "stats": {
+      "views": 236312,
+      "likes": 11628,
+      "shares": 1386
+    }
+  },
+  {
+    "id": "sty_0016",
+    "creatorId": "crt_0015",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/16/0.mp4",
+        "durationMs": 11834,
+        "posterUrl": "https://picsum.photos/seed/sty16-0/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/16/1.mp4",
+        "durationMs": 5574,
+        "posterUrl": "https://picsum.photos/seed/sty16-1/720/1280"
+      }
+    ],
+    "caption": "Monsoon-ready cottons",
+    "taggedProducts": [
+      {
+        "productId": "prd_0190",
+        "segmentIndex": 1,
+        "x": 0.75,
+        "y": 0.88
+      }
+    ],
+    "publishedAt": "2026-09-01T12:17:42Z",
+    "expiresAt": "2026-09-02T12:17:42Z",
+    "stats": {
+      "views": 30026,
+      "likes": 1840,
+      "shares": 2174
+    }
+  },
+  {
+    "id": "sty_0017",
+    "creatorId": "crt_0013",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/17/0.mp4",
+        "durationMs": 12824,
+        "posterUrl": "https://picsum.photos/seed/sty17-0/720/1280"
+      }
+    ],
+    "caption": "Unboxing my handmade haul",
+    "taggedProducts": [
+      {
+        "productId": "prd_0177",
+        "segmentIndex": 0,
+        "x": 0.76,
+        "y": 0.92
+      }
+    ],
+    "publishedAt": "2026-08-16T03:34:44Z",
+    "expiresAt": "2026-08-17T03:34:44Z",
+    "stats": {
+      "views": 223040,
+      "likes": 17891,
+      "shares": 2507
+    }
+  },
+  {
+    "id": "sty_0018",
+    "creatorId": "crt_0026",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/18/0.mp4",
+        "durationMs": 14740,
+        "posterUrl": "https://picsum.photos/seed/sty18-0/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty18-1/720/1280",
+        "durationMs": 5000
+      }
+    ],
+    "caption": "Styling this for Diwali 🪔",
+    "taggedProducts": [
+      {
+        "productId": "prd_0140",
+        "segmentIndex": 0,
+        "x": 0.63,
+        "y": 0.35
+      },
+      {
+        "productId": "prd_0020",
+        "segmentIndex": 1,
+        "x": 0.58,
+        "y": 0.03
+      }
+    ],
+    "publishedAt": "2026-09-04T12:51:24Z",
+    "expiresAt": "2026-09-05T12:51:24Z",
+    "stats": {
+      "views": 12084,
+      "likes": 7401,
+      "shares": 1276
+    }
+  },
+  {
+    "id": "sty_0019",
+    "creatorId": "crt_0011",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/19/0.mp4",
+        "durationMs": 13647,
+        "posterUrl": "https://picsum.photos/seed/sty19-0/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty19-1/720/1280",
+        "durationMs": 5000
+      }
+    ],
+    "caption": "Under ₹999 finds you'll love",
+    "taggedProducts": [
+      {
+        "productId": "prd_0108",
+        "segmentIndex": 0,
+        "x": 0.67,
+        "y": 0.21
+      },
+      {
+        "productId": "prd_0132",
+        "segmentIndex": 1,
+        "x": 0.4,
+        "y": 0.87
+      }
+    ],
+    "publishedAt": "2026-08-25T20:11:22Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 79037,
+      "likes": 6736,
+      "shares": 1839
+    }
+  },
+  {
+    "id": "sty_0020",
+    "creatorId": "crt_0031",
+    "segments": [
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty20-0/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty20-1/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/20/2.mp4",
+        "durationMs": 14855,
+        "posterUrl": "https://picsum.photos/seed/sty20-2/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/20/3.mp4",
+        "durationMs": 12660,
+        "posterUrl": "https://picsum.photos/seed/sty20-3/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/20/4.mp4",
+        "durationMs": 11907,
+        "posterUrl": "https://picsum.photos/seed/sty20-4/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/20/5.mp4",
+        "durationMs": 7042,
+        "posterUrl": "https://picsum.photos/seed/sty20-5/720/1280"
+      }
+    ],
+    "caption": "3 ways to wear one dupatta",
+    "taggedProducts": [
+      {
+        "productId": "prd_0100",
+        "segmentIndex": 0,
+        "x": 0.49,
+        "y": 0.46
+      },
+      {
+        "productId": "prd_0052",
+        "segmentIndex": 1,
+        "x": 0.55,
+        "y": 0.23
+      },
+      {
+        "productId": "prd_0181",
+        "segmentIndex": 2,
+        "x": 0.77,
+        "y": 0.84
+      },
+      {
+        "productId": "prd_0029",
+        "segmentIndex": 4,
+        "x": 0.43,
+        "y": 0.83
+      }
+    ],
+    "publishedAt": "2026-09-07T14:11:42Z",
+    "expiresAt": "2026-09-08T14:11:42Z",
+    "stats": {
+      "views": 61837,
+      "likes": 8131,
+      "shares": 2453
+    }
+  },
+  {
+    "id": "sty_0021",
+    "creatorId": "crt_0033",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/21/0.mp4",
+        "durationMs": 5251,
+        "posterUrl": "https://picsum.photos/seed/sty21-0/720/1280"
+      }
+    ],
+    "caption": "Under ₹999 finds you'll love",
+    "taggedProducts": [
+      {
+        "productId": "prd_0190",
+        "segmentIndex": 0,
+        "x": 0.36,
+        "y": 0.79
+      }
+    ],
+    "publishedAt": "2026-08-07T17:21:35Z",
+    "expiresAt": "2026-08-08T17:21:35Z",
+    "stats": {
+      "views": 99863,
+      "likes": 5146,
+      "shares": 2264
+    }
+  },
+  {
+    "id": "sty_0022",
+    "creatorId": "crt_0008",
+    "segments": [
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty22-0/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty22-1/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/22/2.mp4",
+        "durationMs": 8671,
+        "posterUrl": "https://picsum.photos/seed/sty22-2/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/22/3.mp4",
+        "durationMs": 14097,
+        "posterUrl": "https://picsum.photos/seed/sty22-3/720/1280"
+      }
+    ],
+    "caption": "Behind the loom with the artisans",
+    "taggedProducts": [
+      {
+        "productId": "prd_0179",
+        "segmentIndex": 0,
+        "x": 0.86,
+        "y": 0.39
+      },
+      {
+        "productId": "prd_0082",
+        "segmentIndex": 1,
+        "x": 0.67,
+        "y": 0.36
+      },
+      {
+        "productId": "prd_0073",
+        "segmentIndex": 2,
+        "x": 0.63,
+        "y": 0.31
+      },
+      {
+        "productId": "prd_0034",
+        "segmentIndex": 3,
+        "x": 0.57,
+        "y": 0.45
+      }
+    ],
+    "publishedAt": "2026-08-08T15:43:09Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 11734,
+      "likes": 8951,
+      "shares": 313
+    }
+  },
+  {
+    "id": "sty_0023",
+    "creatorId": "crt_0039",
+    "segments": [
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty23-0/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty23-1/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty23-2/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty23-3/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty23-4/720/1280",
+        "durationMs": 5000
+      }
+    ],
+    "caption": "Under ₹999 finds you'll love",
+    "taggedProducts": [
+      {
+        "productId": "prd_0125",
+        "segmentIndex": 4,
+        "x": 0.83,
+        "y": 0.72
+      }
+    ],
+    "publishedAt": "2026-08-25T11:06:15Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 181314,
+      "likes": 3164,
+      "shares": 1109
+    }
+  },
+  {
+    "id": "sty_0024",
+    "creatorId": "crt_0012",
+    "segments": [
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty24-0/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/24/1.mp4",
+        "durationMs": 7842,
+        "posterUrl": "https://picsum.photos/seed/sty24-1/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty24-2/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/24/3.mp4",
+        "durationMs": 5678,
+        "posterUrl": "https://picsum.photos/seed/sty24-3/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty24-4/720/1280",
+        "durationMs": 5000
+      }
+    ],
+    "caption": "Under ₹999 finds you'll love",
+    "taggedProducts": [
+      {
+        "productId": "prd_0148",
+        "segmentIndex": 0,
+        "x": 0.03,
+        "y": 0.32
+      },
+      {
+        "productId": "prd_0195",
+        "segmentIndex": 2,
+        "x": 0.93,
+        "y": 0.95
+      }
+    ],
+    "publishedAt": "2026-08-12T21:26:11Z",
+    "expiresAt": "2026-08-13T21:26:11Z",
+    "stats": {
+      "views": 202585,
+      "likes": 17127,
+      "shares": 2667
+    }
+  },
+  {
+    "id": "sty_0025",
+    "creatorId": "crt_0005",
+    "segments": [
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty25-0/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/25/1.mp4",
+        "durationMs": 9364,
+        "posterUrl": "https://picsum.photos/seed/sty25-1/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty25-2/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty25-3/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/25/4.mp4",
+        "durationMs": 9886,
+        "posterUrl": "https://picsum.photos/seed/sty25-4/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/25/5.mp4",
+        "durationMs": 7789,
+        "posterUrl": "https://picsum.photos/seed/sty25-5/720/1280"
+      }
+    ],
+    "caption": "Gifting ideas for Rakhi",
+    "taggedProducts": [
+      {
+        "productId": "prd_0095",
+        "segmentIndex": 0,
+        "x": 0.42,
+        "y": 0.86
+      },
+      {
+        "productId": "prd_0109",
+        "segmentIndex": 2,
+        "x": 0.19,
+        "y": 0.14
+      },
+      {
+        "productId": "prd_0040",
+        "segmentIndex": 3,
+        "x": 0.55,
+        "y": 0.55
+      },
+      {
+        "productId": "prd_0119",
+        "segmentIndex": 4,
+        "x": 0.28,
+        "y": 0.27
+      }
+    ],
+    "publishedAt": "2026-09-02T09:55:31Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 83639,
+      "likes": 13940,
+      "shares": 2673
+    }
+  },
+  {
+    "id": "sty_0026",
+    "creatorId": "crt_0015",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/26/0.mp4",
+        "durationMs": 14840,
+        "posterUrl": "https://picsum.photos/seed/sty26-0/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/26/1.mp4",
+        "durationMs": 10717,
+        "posterUrl": "https://picsum.photos/seed/sty26-1/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/26/2.mp4",
+        "durationMs": 7697,
+        "posterUrl": "https://picsum.photos/seed/sty26-2/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty26-3/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/26/4.mp4",
+        "durationMs": 10214,
+        "posterUrl": "https://picsum.photos/seed/sty26-4/720/1280"
+      }
+    ],
+    "caption": "Gifting ideas for Rakhi",
+    "taggedProducts": [
+      {
+        "productId": "prd_0053",
+        "segmentIndex": 0,
+        "x": 0.13,
+        "y": 0.93
+      },
+      {
+        "productId": "prd_0100",
+        "segmentIndex": 2,
+        "x": 0.42,
+        "y": 0.7
+      },
+      {
+        "productId": "prd_0198",
+        "segmentIndex": 3,
+        "x": 0.19,
+        "y": 0.17
+      }
+    ],
+    "publishedAt": "2026-08-03T10:48:32Z",
+    "expiresAt": "2026-08-04T10:48:32Z",
+    "stats": {
+      "views": 229137,
+      "likes": 13117,
+      "shares": 1737
+    }
+  },
+  {
+    "id": "sty_0027",
+    "creatorId": "crt_0024",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/27/0.mp4",
+        "durationMs": 13497,
+        "posterUrl": "https://picsum.photos/seed/sty27-0/720/1280"
+      }
+    ],
+    "caption": "Gifting ideas for Rakhi",
+    "taggedProducts": [],
+    "publishedAt": "2026-08-11T16:18:47Z",
+    "expiresAt": "2026-08-12T16:18:47Z",
+    "stats": {
+      "views": 238657,
+      "likes": 6948,
+      "shares": 989
+    }
+  },
+  {
+    "id": "sty_0028",
+    "creatorId": "crt_0016",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/28/0.mp4",
+        "durationMs": 10571,
+        "posterUrl": "https://picsum.photos/seed/sty28-0/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty28-1/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/28/2.mp4",
+        "durationMs": 10316,
+        "posterUrl": "https://picsum.photos/seed/sty28-2/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty28-3/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty28-4/720/1280",
+        "durationMs": 5000
+      }
+    ],
+    "caption": "3 ways to wear one dupatta",
+    "taggedProducts": [
+      {
+        "productId": "prd_0114",
+        "segmentIndex": 1,
+        "x": 0.34,
+        "y": 0.2
+      },
+      {
+        "productId": "prd_0196",
+        "segmentIndex": 2,
+        "x": 0.9,
+        "y": 0.93
+      },
+      {
+        "productId": "prd_0144",
+        "segmentIndex": 3,
+        "x": 0.38,
+        "y": 0.27
+      },
+      {
+        "productId": "prd_0162",
+        "segmentIndex": 4,
+        "x": 0.43,
+        "y": 0.92
+      }
+    ],
+    "publishedAt": "2026-08-10T16:22:32Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 24533,
+      "likes": 3244,
+      "shares": 1707
+    }
+  },
+  {
+    "id": "sty_0029",
+    "creatorId": "crt_0036",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/29/0.mp4",
+        "durationMs": 11928,
+        "posterUrl": "https://picsum.photos/seed/sty29-0/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/29/1.mp4",
+        "durationMs": 6101,
+        "posterUrl": "https://picsum.photos/seed/sty29-1/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/29/2.mp4",
+        "durationMs": 12434,
+        "posterUrl": "https://picsum.photos/seed/sty29-2/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/29/3.mp4",
+        "durationMs": 12236,
+        "posterUrl": "https://picsum.photos/seed/sty29-3/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/29/4.mp4",
+        "durationMs": 7956,
+        "posterUrl": "https://picsum.photos/seed/sty29-4/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty29-5/720/1280",
+        "durationMs": 5000
+      }
+    ],
+    "caption": "Under ₹999 finds you'll love",
+    "taggedProducts": [
+      {
+        "productId": "prd_0147",
+        "segmentIndex": 0,
+        "x": 0.46,
+        "y": 0.97
+      },
+      {
+        "productId": "prd_0141",
+        "segmentIndex": 1,
+        "x": 0.46,
+        "y": 0.8
+      },
+      {
+        "productId": "prd_0028",
+        "segmentIndex": 3,
+        "x": 0.87,
+        "y": 0.11
+      },
+      {
+        "productId": "prd_0022",
+        "segmentIndex": 5,
+        "x": 0.71,
+        "y": 0.31
+      }
+    ],
+    "publishedAt": "2026-08-19T00:33:00Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 68742,
+      "likes": 14689,
+      "shares": 520
+    }
+  },
+  {
+    "id": "sty_0030",
+    "creatorId": "crt_0027",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/30/0.mp4",
+        "durationMs": 6047,
+        "posterUrl": "https://picsum.photos/seed/sty30-0/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/30/1.mp4",
+        "durationMs": 4982,
+        "posterUrl": "https://picsum.photos/seed/sty30-1/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/30/2.mp4",
+        "durationMs": 7930,
+        "posterUrl": "https://picsum.photos/seed/sty30-2/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty30-3/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/30/4.mp4",
+        "durationMs": 13964,
+        "posterUrl": "https://picsum.photos/seed/sty30-4/720/1280"
+      }
+    ],
+    "caption": "3 ways to wear one dupatta",
+    "taggedProducts": [
+      {
+        "productId": "prd_0042",
+        "segmentIndex": 1,
+        "x": 0.85,
+        "y": 0.96
+      },
+      {
+        "productId": "prd_0128",
+        "segmentIndex": 2,
+        "x": 0,
+        "y": 0.1
+      }
+    ],
+    "publishedAt": "2026-08-25T15:30:03Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 132288,
+      "likes": 10345,
+      "shares": 829
+    }
+  },
+  {
+    "id": "sty_0031",
+    "creatorId": "crt_0002",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/31/0.mp4",
+        "durationMs": 13419,
+        "posterUrl": "https://picsum.photos/seed/sty31-0/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty31-1/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/31/2.mp4",
+        "durationMs": 12825,
+        "posterUrl": "https://picsum.photos/seed/sty31-2/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/31/3.mp4",
+        "durationMs": 9535,
+        "posterUrl": "https://picsum.photos/seed/sty31-3/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty31-4/720/1280",
+        "durationMs": 5000
+      }
+    ],
+    "caption": "Monsoon-ready cottons",
+    "taggedProducts": [
+      {
+        "productId": "prd_0044",
+        "segmentIndex": 2,
+        "x": 0.27,
+        "y": 0.09
+      },
+      {
+        "productId": "prd_0035",
+        "segmentIndex": 3,
+        "x": 0.19,
+        "y": 0.74
+      },
+      {
+        "productId": "prd_0132",
+        "segmentIndex": 4,
+        "x": 0.79,
+        "y": 0.29
+      }
+    ],
+    "publishedAt": "2026-08-19T08:24:14Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 248716,
+      "likes": 19297,
+      "shares": 911
+    }
+  },
+  {
+    "id": "sty_0032",
+    "creatorId": "crt_0038",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/32/0.mp4",
+        "durationMs": 4049,
+        "posterUrl": "https://picsum.photos/seed/sty32-0/720/1280"
+      }
+    ],
+    "caption": "Gifting ideas for Rakhi",
+    "taggedProducts": [
+      {
+        "productId": "prd_0130",
+        "segmentIndex": 0,
+        "x": 0.74,
+        "y": 0.12
+      }
+    ],
+    "publishedAt": "2026-08-20T00:56:07Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 92314,
+      "likes": 19990,
+      "shares": 446
+    }
+  },
+  {
+    "id": "sty_0033",
+    "creatorId": "crt_0011",
+    "segments": [
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty33-0/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty33-1/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/33/2.mp4",
+        "durationMs": 11975,
+        "posterUrl": "https://picsum.photos/seed/sty33-2/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/33/3.mp4",
+        "durationMs": 14294,
+        "posterUrl": "https://picsum.photos/seed/sty33-3/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty33-4/720/1280",
+        "durationMs": 5000
+      }
+    ],
+    "caption": "Gifting ideas for Rakhi",
+    "taggedProducts": [
+      {
+        "productId": "prd_0187",
+        "segmentIndex": 0,
+        "x": 0.94,
+        "y": 0.49
+      },
+      {
+        "productId": "prd_0157",
+        "segmentIndex": 3,
+        "x": 0.5,
+        "y": 0.3
+      },
+      {
+        "productId": "prd_0137",
+        "segmentIndex": 4,
+        "x": 0.39,
+        "y": 0.59
+      }
+    ],
+    "publishedAt": "2026-09-10T17:41:58Z",
+    "expiresAt": "2026-09-11T17:41:58Z",
+    "stats": {
+      "views": 99602,
+      "likes": 1230,
+      "shares": 2164
+    }
+  },
+  {
+    "id": "sty_0034",
+    "creatorId": "crt_0023",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/34/0.mp4",
+        "durationMs": 4803,
+        "posterUrl": "https://picsum.photos/seed/sty34-0/720/1280"
+      }
+    ],
+    "caption": "Monsoon-ready cottons",
+    "taggedProducts": [],
+    "publishedAt": "2026-09-04T07:14:12Z",
+    "expiresAt": "2026-09-05T07:14:12Z",
+    "stats": {
+      "views": 121390,
+      "likes": 11695,
+      "shares": 72
+    }
+  },
+  {
+    "id": "sty_0035",
+    "creatorId": "crt_0039",
+    "segments": [
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty35-0/720/1280",
+        "durationMs": 5000
+      }
+    ],
+    "caption": "Unboxing my handmade haul",
+    "taggedProducts": [],
+    "publishedAt": "2026-08-16T05:24:46Z",
+    "expiresAt": "2026-08-17T05:24:46Z",
+    "stats": {
+      "views": 167710,
+      "likes": 858,
+      "shares": 1196
+    }
+  },
+  {
+    "id": "sty_0036",
+    "creatorId": "crt_0009",
+    "segments": [
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty36-0/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty36-1/720/1280",
+        "durationMs": 5000
+      }
+    ],
+    "caption": "Monsoon-ready cottons",
+    "taggedProducts": [
+      {
+        "productId": "prd_0116",
+        "segmentIndex": 1,
+        "x": 0.18,
+        "y": 0.79
+      }
+    ],
+    "publishedAt": "2026-08-30T14:03:00Z",
+    "expiresAt": "2026-08-31T14:03:00Z",
+    "stats": {
+      "views": 245625,
+      "likes": 7044,
+      "shares": 1085
+    }
+  },
+  {
+    "id": "sty_0037",
+    "creatorId": "crt_0024",
+    "segments": [
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty37-0/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/37/1.mp4",
+        "durationMs": 9801,
+        "posterUrl": "https://picsum.photos/seed/sty37-1/720/1280"
+      }
+    ],
+    "caption": "Styling this for Diwali 🪔",
+    "taggedProducts": [
+      {
+        "productId": "prd_0185",
+        "segmentIndex": 0,
+        "x": 0.81,
+        "y": 0.7
+      },
+      {
+        "productId": "prd_0132",
+        "segmentIndex": 1,
+        "x": 0.36,
+        "y": 0.45
+      }
+    ],
+    "publishedAt": "2026-08-22T19:43:16Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 80978,
+      "likes": 7244,
+      "shares": 2280
+    }
+  },
+  {
+    "id": "sty_0038",
+    "creatorId": "crt_0002",
+    "segments": [
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty38-0/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/38/1.mp4",
+        "durationMs": 4636,
+        "posterUrl": "https://picsum.photos/seed/sty38-1/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/38/2.mp4",
+        "durationMs": 9552,
+        "posterUrl": "https://picsum.photos/seed/sty38-2/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/38/3.mp4",
+        "durationMs": 14548,
+        "posterUrl": "https://picsum.photos/seed/sty38-3/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty38-4/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/38/5.mp4",
+        "durationMs": 8218,
+        "posterUrl": "https://picsum.photos/seed/sty38-5/720/1280"
+      }
+    ],
+    "caption": "Behind the loom with the artisans",
+    "taggedProducts": [
+      {
+        "productId": "prd_0081",
+        "segmentIndex": 0,
+        "x": 0.81,
+        "y": 0.9
+      },
+      {
+        "productId": "prd_0186",
+        "segmentIndex": 1,
+        "x": 0.78,
+        "y": 0.98
+      },
+      {
+        "productId": "prd_0186",
+        "segmentIndex": 2,
+        "x": 0.18,
+        "y": 0.28
+      },
+      {
+        "productId": "prd_0033",
+        "segmentIndex": 3,
+        "x": 0.88,
+        "y": 0.48
+      },
+      {
+        "productId": "prd_0118",
+        "segmentIndex": 4,
+        "x": 0.84,
+        "y": 0
+      },
+      {
+        "productId": "prd_0136",
+        "segmentIndex": 5,
+        "x": 0.95,
+        "y": 0.01
+      }
+    ],
+    "publishedAt": "2026-09-07T05:58:22Z",
+    "expiresAt": "2026-09-08T05:58:22Z",
+    "stats": {
+      "views": 237281,
+      "likes": 18837,
+      "shares": 1270
+    }
+  },
+  {
+    "id": "sty_0039",
+    "creatorId": "crt_0019",
+    "segments": [
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty39-0/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty39-1/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/39/2.mp4",
+        "durationMs": 9281,
+        "posterUrl": "https://picsum.photos/seed/sty39-2/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty39-3/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty39-4/720/1280",
+        "durationMs": 5000
+      }
+    ],
+    "caption": "Monsoon-ready cottons",
+    "taggedProducts": [
+      {
+        "productId": "prd_0021",
+        "segmentIndex": 1,
+        "x": 0.45,
+        "y": 0.1
+      },
+      {
+        "productId": "prd_0165",
+        "segmentIndex": 3,
+        "x": 0.77,
+        "y": 0.7
+      },
+      {
+        "productId": "prd_0005",
+        "segmentIndex": 4,
+        "x": 0.01,
+        "y": 0.55
+      }
+    ],
+    "publishedAt": "2026-08-10T21:52:33Z",
+    "expiresAt": "2026-08-11T21:52:33Z",
+    "stats": {
+      "views": 214247,
+      "likes": 16716,
+      "shares": 1818
+    }
+  },
+  {
+    "id": "sty_0040",
+    "creatorId": "crt_0003",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/40/0.mp4",
+        "durationMs": 9739,
+        "posterUrl": "https://picsum.photos/seed/sty40-0/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/40/1.mp4",
+        "durationMs": 6339,
+        "posterUrl": "https://picsum.photos/seed/sty40-1/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/40/2.mp4",
+        "durationMs": 11447,
+        "posterUrl": "https://picsum.photos/seed/sty40-2/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/40/3.mp4",
+        "durationMs": 7799,
+        "posterUrl": "https://picsum.photos/seed/sty40-3/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/40/4.mp4",
+        "durationMs": 6970,
+        "posterUrl": "https://picsum.photos/seed/sty40-4/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty40-5/720/1280",
+        "durationMs": 5000
+      }
+    ],
+    "caption": "Styling this for Diwali 🪔",
+    "taggedProducts": [
+      {
+        "productId": "prd_0155",
+        "segmentIndex": 0,
+        "x": 0.76,
+        "y": 0.65
+      },
+      {
+        "productId": "prd_0090",
+        "segmentIndex": 1,
+        "x": 0.4,
+        "y": 0.29
+      },
+      {
+        "productId": "prd_0076",
+        "segmentIndex": 2,
+        "x": 0.32,
+        "y": 0.24
+      },
+      {
+        "productId": "prd_0078",
+        "segmentIndex": 3,
+        "x": 0.99,
+        "y": 0.74
+      },
+      {
+        "productId": "prd_0160",
+        "segmentIndex": 4,
+        "x": 0.56,
+        "y": 0.47
+      },
+      {
+        "productId": "prd_0082",
+        "segmentIndex": 5,
+        "x": 0.26,
+        "y": 0.28
+      }
+    ],
+    "publishedAt": "2026-09-07T08:27:55Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 216162,
+      "likes": 18243,
+      "shares": 76
+    }
+  },
+  {
+    "id": "sty_0041",
+    "creatorId": "crt_0008",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/41/0.mp4",
+        "durationMs": 12147,
+        "posterUrl": "https://picsum.photos/seed/sty41-0/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/41/1.mp4",
+        "durationMs": 14568,
+        "posterUrl": "https://picsum.photos/seed/sty41-1/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/41/2.mp4",
+        "durationMs": 9675,
+        "posterUrl": "https://picsum.photos/seed/sty41-2/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty41-3/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty41-4/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty41-5/720/1280",
+        "durationMs": 5000
+      }
+    ],
+    "caption": "Under ₹999 finds you'll love",
+    "taggedProducts": [
+      {
+        "productId": "prd_0081",
+        "segmentIndex": 0,
+        "x": 0.34,
+        "y": 0.81
+      },
+      {
+        "productId": "prd_0117",
+        "segmentIndex": 1,
+        "x": 0.52,
+        "y": 0
+      },
+      {
+        "productId": "prd_0063",
+        "segmentIndex": 2,
+        "x": 0.3,
+        "y": 0.79
+      },
+      {
+        "productId": "prd_0143",
+        "segmentIndex": 4,
+        "x": 0.05,
+        "y": 0.82
+      },
+      {
+        "productId": "prd_0169",
+        "segmentIndex": 5,
+        "x": 0.78,
+        "y": 0.39
+      }
+    ],
+    "publishedAt": "2026-08-28T23:22:45Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 238549,
+      "likes": 16208,
+      "shares": 2661
+    }
+  },
+  {
+    "id": "sty_0042",
+    "creatorId": "crt_0003",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/42/0.mp4",
+        "durationMs": 9584,
+        "posterUrl": "https://picsum.photos/seed/sty42-0/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty42-1/720/1280",
+        "durationMs": 5000
+      }
+    ],
+    "caption": "Behind the loom with the artisans",
+    "taggedProducts": [
+      {
+        "productId": "prd_0121",
+        "segmentIndex": 0,
+        "x": 0.64,
+        "y": 0.72
+      }
+    ],
+    "publishedAt": "2026-08-28T11:16:21Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 171746,
+      "likes": 309,
+      "shares": 1320
+    }
+  },
+  {
+    "id": "sty_0043",
+    "creatorId": "crt_0029",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/43/0.mp4",
+        "durationMs": 11737,
+        "posterUrl": "https://picsum.photos/seed/sty43-0/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty43-1/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/43/2.mp4",
+        "durationMs": 7144,
+        "posterUrl": "https://picsum.photos/seed/sty43-2/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty43-3/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/43/4.mp4",
+        "durationMs": 14826,
+        "posterUrl": "https://picsum.photos/seed/sty43-4/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/43/5.mp4",
+        "durationMs": 5430,
+        "posterUrl": "https://picsum.photos/seed/sty43-5/720/1280"
+      }
+    ],
+    "caption": "Monsoon-ready cottons",
+    "taggedProducts": [
+      {
+        "productId": "prd_0070",
+        "segmentIndex": 0,
+        "x": 0.59,
+        "y": 0.05
+      },
+      {
+        "productId": "prd_0159",
+        "segmentIndex": 1,
+        "x": 0.05,
+        "y": 0.58
+      },
+      {
+        "productId": "prd_0099",
+        "segmentIndex": 4,
+        "x": 0.2,
+        "y": 0.82
+      },
+      {
+        "productId": "prd_0125",
+        "segmentIndex": 5,
+        "x": 0.26,
+        "y": 0.52
+      }
+    ],
+    "publishedAt": "2026-08-10T14:05:45Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 30270,
+      "likes": 14542,
+      "shares": 917
+    }
+  },
+  {
+    "id": "sty_0044",
+    "creatorId": "crt_0017",
+    "segments": [
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty44-0/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty44-1/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty44-2/720/1280",
+        "durationMs": 5000
+      }
+    ],
+    "caption": "3 ways to wear one dupatta",
+    "taggedProducts": [],
+    "publishedAt": "2026-08-30T00:17:41Z",
+    "expiresAt": "2026-08-31T00:17:41Z",
+    "stats": {
+      "views": 28922,
+      "likes": 2607,
+      "shares": 1383
+    }
+  },
+  {
+    "id": "sty_0045",
+    "creatorId": "crt_0009",
+    "segments": [
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty45-0/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty45-1/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty45-2/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/45/3.mp4",
+        "durationMs": 8109,
+        "posterUrl": "https://picsum.photos/seed/sty45-3/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty45-4/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/45/5.mp4",
+        "durationMs": 9693,
+        "posterUrl": "https://picsum.photos/seed/sty45-5/720/1280"
+      }
+    ],
+    "caption": "Styling this for Diwali 🪔",
+    "taggedProducts": [
+      {
+        "productId": "prd_0055",
+        "segmentIndex": 0,
+        "x": 0.43,
+        "y": 0.95
+      },
+      {
+        "productId": "prd_0065",
+        "segmentIndex": 1,
+        "x": 0.67,
+        "y": 0.89
+      },
+      {
+        "productId": "prd_0018",
+        "segmentIndex": 3,
+        "x": 0.87,
+        "y": 0.81
+      },
+      {
+        "productId": "prd_0029",
+        "segmentIndex": 4,
+        "x": 0.24,
+        "y": 0.19
+      }
+    ],
+    "publishedAt": "2026-09-09T01:51:00Z",
+    "expiresAt": "2026-09-10T01:51:00Z",
+    "stats": {
+      "views": 38834,
+      "likes": 231,
+      "shares": 1695
+    }
+  },
+  {
+    "id": "sty_0046",
+    "creatorId": "crt_0024",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/46/0.mp4",
+        "durationMs": 9806,
+        "posterUrl": "https://picsum.photos/seed/sty46-0/720/1280"
+      }
+    ],
+    "caption": "Under ₹999 finds you'll love",
+    "taggedProducts": [
+      {
+        "productId": "prd_0127",
+        "segmentIndex": 0,
+        "x": 0.07,
+        "y": 0.35
+      }
+    ],
+    "publishedAt": "2026-09-09T04:51:25Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 140494,
+      "likes": 8109,
+      "shares": 143
+    }
+  },
+  {
+    "id": "sty_0047",
+    "creatorId": "crt_0040",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/47/0.mp4",
+        "durationMs": 9480,
+        "posterUrl": "https://picsum.photos/seed/sty47-0/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty47-1/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty47-2/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty47-3/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty47-4/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/47/5.mp4",
+        "durationMs": 6151,
+        "posterUrl": "https://picsum.photos/seed/sty47-5/720/1280"
+      }
+    ],
+    "caption": "Behind the loom with the artisans",
+    "taggedProducts": [
+      {
+        "productId": "prd_0170",
+        "segmentIndex": 2,
+        "x": 0.46,
+        "y": 0.21
+      },
+      {
+        "productId": "prd_0023",
+        "segmentIndex": 5,
+        "x": 0.55,
+        "y": 0.28
+      }
+    ],
+    "publishedAt": "2026-08-22T04:14:26Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 90507,
+      "likes": 12117,
+      "shares": 2778
+    }
+  },
+  {
+    "id": "sty_0048",
+    "creatorId": "crt_0018",
+    "segments": [
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty48-0/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/48/1.mp4",
+        "durationMs": 6646,
+        "posterUrl": "https://picsum.photos/seed/sty48-1/720/1280"
+      }
+    ],
+    "caption": "Yeh kurta toh must-have hai!",
+    "taggedProducts": [
+      {
+        "productId": "prd_0017",
+        "segmentIndex": 1,
+        "x": 0.09,
+        "y": 0.04
+      }
+    ],
+    "publishedAt": "2026-09-08T11:02:55Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 71044,
+      "likes": 15650,
+      "shares": 2128
+    }
+  },
+  {
+    "id": "sty_0049",
+    "creatorId": "crt_0015",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/49/0.mp4",
+        "durationMs": 12565,
+        "posterUrl": "https://picsum.photos/seed/sty49-0/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/49/1.mp4",
+        "durationMs": 6292,
+        "posterUrl": "https://picsum.photos/seed/sty49-1/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty49-2/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty49-3/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/49/4.mp4",
+        "durationMs": 5720,
+        "posterUrl": "https://picsum.photos/seed/sty49-4/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/49/5.mp4",
+        "durationMs": 12834,
+        "posterUrl": "https://picsum.photos/seed/sty49-5/720/1280"
+      }
+    ],
+    "caption": "Gifting ideas for Rakhi",
+    "taggedProducts": [
+      {
+        "productId": "prd_0173",
+        "segmentIndex": 0,
+        "x": 0.99,
+        "y": 0.91
+      },
+      {
+        "productId": "prd_0145",
+        "segmentIndex": 1,
+        "x": 0.61,
+        "y": 0.73
+      },
+      {
+        "productId": "prd_0028",
+        "segmentIndex": 3,
+        "x": 0.11,
+        "y": 0.71
+      }
+    ],
+    "publishedAt": "2026-08-15T10:39:52Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 38937,
+      "likes": 9035,
+      "shares": 812
+    }
+  },
+  {
+    "id": "sty_0050",
+    "creatorId": "crt_0039",
+    "segments": [
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty50-0/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/50/1.mp4",
+        "durationMs": 13935,
+        "posterUrl": "https://picsum.photos/seed/sty50-1/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty50-2/720/1280",
+        "durationMs": 5000
+      }
+    ],
+    "caption": "3 ways to wear one dupatta",
+    "taggedProducts": [
+      {
+        "productId": "prd_0102",
+        "segmentIndex": 2,
+        "x": 0.37,
+        "y": 0.8
+      }
+    ],
+    "publishedAt": "2026-08-15T15:44:23Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 96046,
+      "likes": 11823,
+      "shares": 1154
+    }
+  },
+  {
+    "id": "sty_0051",
+    "creatorId": "crt_0019",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/51/0.mp4",
+        "durationMs": 14266,
+        "posterUrl": "https://picsum.photos/seed/sty51-0/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty51-1/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty51-2/720/1280",
+        "durationMs": 5000
+      }
+    ],
+    "caption": "Is it worth the hype? Honest review",
+    "taggedProducts": [
+      {
+        "productId": "prd_0056",
+        "segmentIndex": 1,
+        "x": 0.23,
+        "y": 0.33
+      },
+      {
+        "productId": "prd_0196",
+        "segmentIndex": 2,
+        "x": 0.87,
+        "y": 0.18
+      }
+    ],
+    "publishedAt": "2026-08-31T05:43:14Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 100853,
+      "likes": 398,
+      "shares": 557
+    }
+  },
+  {
+    "id": "sty_0052",
+    "creatorId": "crt_0021",
+    "segments": [
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty52-0/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/52/1.mp4",
+        "durationMs": 9335,
+        "posterUrl": "https://picsum.photos/seed/sty52-1/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/52/2.mp4",
+        "durationMs": 9638,
+        "posterUrl": "https://picsum.photos/seed/sty52-2/720/1280"
+      }
+    ],
+    "caption": "Under ₹999 finds you'll love",
+    "taggedProducts": [
+      {
+        "productId": "prd_0090",
+        "segmentIndex": 0,
+        "x": 0.73,
+        "y": 0.36
+      }
+    ],
+    "publishedAt": "2026-08-07T16:04:48Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 148264,
+      "likes": 13319,
+      "shares": 2579
+    }
+  },
+  {
+    "id": "sty_0053",
+    "creatorId": "crt_0011",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/53/0.mp4",
+        "durationMs": 13823,
+        "posterUrl": "https://picsum.photos/seed/sty53-0/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty53-1/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/53/2.mp4",
+        "durationMs": 10886,
+        "posterUrl": "https://picsum.photos/seed/sty53-2/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/53/3.mp4",
+        "durationMs": 9846,
+        "posterUrl": "https://picsum.photos/seed/sty53-3/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/53/4.mp4",
+        "durationMs": 11593,
+        "posterUrl": "https://picsum.photos/seed/sty53-4/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/53/5.mp4",
+        "durationMs": 12486,
+        "posterUrl": "https://picsum.photos/seed/sty53-5/720/1280"
+      }
+    ],
+    "caption": "Under ₹999 finds you'll love",
+    "taggedProducts": [
+      {
+        "productId": "prd_0087",
+        "segmentIndex": 0,
+        "x": 0.97,
+        "y": 0.91
+      },
+      {
+        "productId": "prd_0094",
+        "segmentIndex": 1,
+        "x": 0.62,
+        "y": 0.81
+      },
+      {
+        "productId": "prd_0071",
+        "segmentIndex": 2,
+        "x": 0.13,
+        "y": 0.05
+      },
+      {
+        "productId": "prd_0175",
+        "segmentIndex": 3,
+        "x": 0.56,
+        "y": 0.77
+      },
+      {
+        "productId": "prd_0137",
+        "segmentIndex": 5,
+        "x": 0.35,
+        "y": 0.01
+      }
+    ],
+    "publishedAt": "2026-08-12T22:05:56Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 129334,
+      "likes": 17446,
+      "shares": 152
+    }
+  },
+  {
+    "id": "sty_0054",
+    "creatorId": "crt_0039",
+    "segments": [
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty54-0/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/54/1.mp4",
+        "durationMs": 12272,
+        "posterUrl": "https://picsum.photos/seed/sty54-1/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/54/2.mp4",
+        "durationMs": 5703,
+        "posterUrl": "https://picsum.photos/seed/sty54-2/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty54-3/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/54/4.mp4",
+        "durationMs": 7793,
+        "posterUrl": "https://picsum.photos/seed/sty54-4/720/1280"
+      }
+    ],
+    "caption": "Monsoon-ready cottons",
+    "taggedProducts": [
+      {
+        "productId": "prd_0107",
+        "segmentIndex": 0,
+        "x": 0.76,
+        "y": 0.75
+      },
+      {
+        "productId": "prd_0114",
+        "segmentIndex": 1,
+        "x": 0.84,
+        "y": 0.56
+      },
+      {
+        "productId": "prd_0068",
+        "segmentIndex": 2,
+        "x": 0.08,
+        "y": 0.19
+      }
+    ],
+    "publishedAt": "2026-09-01T01:58:44Z",
+    "expiresAt": "2026-09-02T01:58:44Z",
+    "stats": {
+      "views": 78034,
+      "likes": 16594,
+      "shares": 1913
+    }
+  },
+  {
+    "id": "sty_0055",
+    "creatorId": "crt_0034",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/55/0.mp4",
+        "durationMs": 4085,
+        "posterUrl": "https://picsum.photos/seed/sty55-0/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty55-1/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/55/2.mp4",
+        "durationMs": 6531,
+        "posterUrl": "https://picsum.photos/seed/sty55-2/720/1280"
+      }
+    ],
+    "caption": "Is it worth the hype? Honest review",
+    "taggedProducts": [
+      {
+        "productId": "prd_0141",
+        "segmentIndex": 0,
+        "x": 0.27,
+        "y": 0.14
+      },
+      {
+        "productId": "prd_0145",
+        "segmentIndex": 1,
+        "x": 0.1,
+        "y": 0.28
+      },
+      {
+        "productId": "prd_0029",
+        "segmentIndex": 2,
+        "x": 0.3,
+        "y": 0.07
+      }
+    ],
+    "publishedAt": "2026-08-11T11:02:13Z",
+    "expiresAt": "2026-08-12T11:02:13Z",
+    "stats": {
+      "views": 59083,
+      "likes": 163,
+      "shares": 1661
+    }
+  },
+  {
+    "id": "sty_0056",
+    "creatorId": "crt_0014",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/56/0.mp4",
+        "durationMs": 8045,
+        "posterUrl": "https://picsum.photos/seed/sty56-0/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty56-1/720/1280",
+        "durationMs": 5000
+      }
+    ],
+    "caption": "Unboxing my handmade haul",
+    "taggedProducts": [
+      {
+        "productId": "prd_0180",
+        "segmentIndex": 0,
+        "x": 0.94,
+        "y": 0.47
+      }
+    ],
+    "publishedAt": "2026-08-18T21:06:55Z",
+    "expiresAt": "2026-08-19T21:06:55Z",
+    "stats": {
+      "views": 8925,
+      "likes": 2199,
+      "shares": 1543
+    }
+  },
+  {
+    "id": "sty_0057",
+    "creatorId": "crt_0003",
+    "segments": [
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty57-0/720/1280",
+        "durationMs": 5000
+      }
+    ],
+    "caption": "Yeh kurta toh must-have hai!",
+    "taggedProducts": [],
+    "publishedAt": "2026-08-09T10:50:55Z",
+    "expiresAt": "2026-08-10T10:50:55Z",
+    "stats": {
+      "views": 171215,
+      "likes": 18594,
+      "shares": 1928
+    }
+  },
+  {
+    "id": "sty_0058",
+    "creatorId": "crt_0019",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/58/0.mp4",
+        "durationMs": 9231,
+        "posterUrl": "https://picsum.photos/seed/sty58-0/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty58-1/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/58/2.mp4",
+        "durationMs": 7447,
+        "posterUrl": "https://picsum.photos/seed/sty58-2/720/1280"
+      }
+    ],
+    "caption": "Is it worth the hype? Honest review",
+    "taggedProducts": [
+      {
+        "productId": "prd_0196",
+        "segmentIndex": 0,
+        "x": 0.52,
+        "y": 0.62
+      },
+      {
+        "productId": "prd_0043",
+        "segmentIndex": 1,
+        "x": 0.56,
+        "y": 0.52
+      },
+      {
+        "productId": "prd_0039",
+        "segmentIndex": 2,
+        "x": 0.72,
+        "y": 0.91
+      }
+    ],
+    "publishedAt": "2026-08-09T22:49:48Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 65574,
+      "likes": 14356,
+      "shares": 1651
+    }
+  },
+  {
+    "id": "sty_0059",
+    "creatorId": "crt_0026",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/59/0.mp4",
+        "durationMs": 10970,
+        "posterUrl": "https://picsum.photos/seed/sty59-0/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/59/1.mp4",
+        "durationMs": 13833,
+        "posterUrl": "https://picsum.photos/seed/sty59-1/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty59-2/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty59-3/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty59-4/720/1280",
+        "durationMs": 5000
+      }
+    ],
+    "caption": "Gifting ideas for Rakhi",
+    "taggedProducts": [
+      {
+        "productId": "prd_0020",
+        "segmentIndex": 0,
+        "x": 0.78,
+        "y": 0.92
+      },
+      {
+        "productId": "prd_0040",
+        "segmentIndex": 1,
+        "x": 0.38,
+        "y": 0.21
+      },
+      {
+        "productId": "prd_0073",
+        "segmentIndex": 2,
+        "x": 0.62,
+        "y": 0.98
+      },
+      {
+        "productId": "prd_0082",
+        "segmentIndex": 4,
+        "x": 0.01,
+        "y": 0.19
+      }
+    ],
+    "publishedAt": "2026-09-02T07:59:55Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 73650,
+      "likes": 17676,
+      "shares": 2469
+    }
+  },
+  {
+    "id": "sty_0060",
+    "creatorId": "crt_0004",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/60/0.mp4",
+        "durationMs": 10299,
+        "posterUrl": "https://picsum.photos/seed/sty60-0/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty60-1/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/60/2.mp4",
+        "durationMs": 7451,
+        "posterUrl": "https://picsum.photos/seed/sty60-2/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty60-3/720/1280",
+        "durationMs": 5000
+      }
+    ],
+    "caption": "Unboxing my handmade haul",
+    "taggedProducts": [
+      {
+        "productId": "prd_0032",
+        "segmentIndex": 0,
+        "x": 0.6,
+        "y": 0.24
+      },
+      {
+        "productId": "prd_0196",
+        "segmentIndex": 2,
+        "x": 0.59,
+        "y": 0.76
+      },
+      {
+        "productId": "prd_0146",
+        "segmentIndex": 3,
+        "x": 0.13,
+        "y": 0.77
+      }
+    ],
+    "publishedAt": "2026-09-07T14:55:18Z",
+    "expiresAt": "2026-09-08T14:55:18Z",
+    "stats": {
+      "views": 144538,
+      "likes": 6887,
+      "shares": 2002
+    }
+  },
+  {
+    "id": "sty_0061",
+    "creatorId": "crt_0032",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/61/0.mp4",
+        "durationMs": 9345,
+        "posterUrl": "https://picsum.photos/seed/sty61-0/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/61/1.mp4",
+        "durationMs": 14924,
+        "posterUrl": "https://picsum.photos/seed/sty61-1/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/61/2.mp4",
+        "durationMs": 12118,
+        "posterUrl": "https://picsum.photos/seed/sty61-2/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/61/3.mp4",
+        "durationMs": 6874,
+        "posterUrl": "https://picsum.photos/seed/sty61-3/720/1280"
+      }
+    ],
+    "caption": "Yeh kurta toh must-have hai!",
+    "taggedProducts": [
+      {
+        "productId": "prd_0185",
+        "segmentIndex": 1,
+        "x": 0.13,
+        "y": 0.58
+      },
+      {
+        "productId": "prd_0060",
+        "segmentIndex": 3,
+        "x": 0.51,
+        "y": 0.13
+      }
+    ],
+    "publishedAt": "2026-08-11T21:50:44Z",
+    "expiresAt": "2026-08-12T21:50:44Z",
+    "stats": {
+      "views": 205899,
+      "likes": 14679,
+      "shares": 578
+    }
+  },
+  {
+    "id": "sty_0062",
+    "creatorId": "crt_0028",
+    "segments": [
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty62-0/720/1280",
+        "durationMs": 5000
+      }
+    ],
+    "caption": "Monsoon-ready cottons",
+    "taggedProducts": [
+      {
+        "productId": "prd_0076",
+        "segmentIndex": 0,
+        "x": 0.23,
+        "y": 0.85
+      }
+    ],
+    "publishedAt": "2026-08-03T08:36:59Z",
+    "expiresAt": "2026-08-04T08:36:59Z",
+    "stats": {
+      "views": 217031,
+      "likes": 2357,
+      "shares": 2586
+    }
+  },
+  {
+    "id": "sty_0063",
+    "creatorId": "crt_0025",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/63/0.mp4",
+        "durationMs": 14146,
+        "posterUrl": "https://picsum.photos/seed/sty63-0/720/1280"
+      }
+    ],
+    "caption": "Is it worth the hype? Honest review",
+    "taggedProducts": [
+      {
+        "productId": "prd_0055",
+        "segmentIndex": 0,
+        "x": 0.88,
+        "y": 0.26
+      }
+    ],
+    "publishedAt": "2026-08-08T15:27:19Z",
+    "expiresAt": "2026-08-09T15:27:19Z",
+    "stats": {
+      "views": 7326,
+      "likes": 6046,
+      "shares": 1606
+    }
+  },
+  {
+    "id": "sty_0064",
+    "creatorId": "crt_0031",
+    "segments": [
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty64-0/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/64/1.mp4",
+        "durationMs": 6104,
+        "posterUrl": "https://picsum.photos/seed/sty64-1/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/64/2.mp4",
+        "durationMs": 14389,
+        "posterUrl": "https://picsum.photos/seed/sty64-2/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty64-3/720/1280",
+        "durationMs": 5000
+      }
+    ],
+    "caption": "Behind the loom with the artisans",
+    "taggedProducts": [
+      {
+        "productId": "prd_0020",
+        "segmentIndex": 1,
+        "x": 0.56,
+        "y": 0.07
+      },
+      {
+        "productId": "prd_0044",
+        "segmentIndex": 2,
+        "x": 0.82,
+        "y": 0.13
+      },
+      {
+        "productId": "prd_0163",
+        "segmentIndex": 3,
+        "x": 0.2,
+        "y": 0.83
+      }
+    ],
+    "publishedAt": "2026-08-24T09:26:49Z",
+    "expiresAt": "2026-08-25T09:26:49Z",
+    "stats": {
+      "views": 207799,
+      "likes": 9970,
+      "shares": 823
+    }
+  },
+  {
+    "id": "sty_0065",
+    "creatorId": "crt_0016",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/65/0.mp4",
+        "durationMs": 11421,
+        "posterUrl": "https://picsum.photos/seed/sty65-0/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty65-1/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty65-2/720/1280",
+        "durationMs": 5000
+      }
+    ],
+    "caption": "Yeh kurta toh must-have hai!",
+    "taggedProducts": [
+      {
+        "productId": "prd_0101",
+        "segmentIndex": 0,
+        "x": 0.88,
+        "y": 0.56
+      },
+      {
+        "productId": "prd_0097",
+        "segmentIndex": 2,
+        "x": 0.93,
+        "y": 0.54
+      }
+    ],
+    "publishedAt": "2026-08-01T08:48:57Z",
+    "expiresAt": "2026-08-02T08:48:57Z",
+    "stats": {
+      "views": 37149,
+      "likes": 11136,
+      "shares": 1689
+    }
+  },
+  {
+    "id": "sty_0066",
+    "creatorId": "crt_0022",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/66/0.mp4",
+        "durationMs": 5568,
+        "posterUrl": "https://picsum.photos/seed/sty66-0/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/66/1.mp4",
+        "durationMs": 14193,
+        "posterUrl": "https://picsum.photos/seed/sty66-1/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty66-2/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty66-3/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/66/4.mp4",
+        "durationMs": 13105,
+        "posterUrl": "https://picsum.photos/seed/sty66-4/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty66-5/720/1280",
+        "durationMs": 5000
+      }
+    ],
+    "caption": "Styling this for Diwali 🪔",
+    "taggedProducts": [
+      {
+        "productId": "prd_0161",
+        "segmentIndex": 2,
+        "x": 0.16,
+        "y": 0.24
+      },
+      {
+        "productId": "prd_0015",
+        "segmentIndex": 3,
+        "x": 0.24,
+        "y": 0.81
+      },
+      {
+        "productId": "prd_0121",
+        "segmentIndex": 4,
+        "x": 0.02,
+        "y": 0.84
+      }
+    ],
+    "publishedAt": "2026-08-12T14:22:36Z",
+    "expiresAt": "2026-08-13T14:22:36Z",
+    "stats": {
+      "views": 149557,
+      "likes": 11772,
+      "shares": 593
+    }
+  },
+  {
+    "id": "sty_0067",
+    "creatorId": "crt_0010",
+    "segments": [
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty67-0/720/1280",
+        "durationMs": 5000
+      }
+    ],
+    "caption": "3 ways to wear one dupatta",
+    "taggedProducts": [],
+    "publishedAt": "2026-08-20T06:53:16Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 43851,
+      "likes": 7378,
+      "shares": 1754
+    }
+  },
+  {
+    "id": "sty_0068",
+    "creatorId": "crt_0003",
+    "segments": [
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty68-0/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/68/1.mp4",
+        "durationMs": 7897,
+        "posterUrl": "https://picsum.photos/seed/sty68-1/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty68-2/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/68/3.mp4",
+        "durationMs": 7831,
+        "posterUrl": "https://picsum.photos/seed/sty68-3/720/1280"
+      }
+    ],
+    "caption": "Styling this for Diwali 🪔",
+    "taggedProducts": [
+      {
+        "productId": "prd_0199",
+        "segmentIndex": 1,
+        "x": 0.84,
+        "y": 0.91
+      },
+      {
+        "productId": "prd_0157",
+        "segmentIndex": 2,
+        "x": 0.51,
+        "y": 0.99
+      }
+    ],
+    "publishedAt": "2026-08-02T23:16:46Z",
+    "expiresAt": "2026-08-03T23:16:46Z",
+    "stats": {
+      "views": 154449,
+      "likes": 18194,
+      "shares": 1489
+    }
+  },
+  {
+    "id": "sty_0069",
+    "creatorId": "crt_0010",
+    "segments": [
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty69-0/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/69/1.mp4",
+        "durationMs": 14013,
+        "posterUrl": "https://picsum.photos/seed/sty69-1/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/69/2.mp4",
+        "durationMs": 9050,
+        "posterUrl": "https://picsum.photos/seed/sty69-2/720/1280"
+      }
+    ],
+    "caption": "Under ₹999 finds you'll love",
+    "taggedProducts": [
+      {
+        "productId": "prd_0098",
+        "segmentIndex": 0,
+        "x": 0.68,
+        "y": 0.61
+      }
+    ],
+    "publishedAt": "2026-08-16T17:37:46Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 115280,
+      "likes": 11416,
+      "shares": 1396
+    }
+  },
+  {
+    "id": "sty_0070",
+    "creatorId": "crt_0025",
+    "segments": [
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty70-0/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/70/1.mp4",
+        "durationMs": 9263,
+        "posterUrl": "https://picsum.photos/seed/sty70-1/720/1280"
+      }
+    ],
+    "caption": "Under ₹999 finds you'll love",
+    "taggedProducts": [],
+    "publishedAt": "2026-08-09T22:42:51Z",
+    "expiresAt": "2026-08-10T22:42:51Z",
+    "stats": {
+      "views": 164927,
+      "likes": 3749,
+      "shares": 966
+    }
+  },
+  {
+    "id": "sty_0071",
+    "creatorId": "crt_0028",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/71/0.mp4",
+        "durationMs": 7896,
+        "posterUrl": "https://picsum.photos/seed/sty71-0/720/1280"
+      }
+    ],
+    "caption": "Styling this for Diwali 🪔",
+    "taggedProducts": [
+      {
+        "productId": "prd_0028",
+        "segmentIndex": 0,
+        "x": 0.52,
+        "y": 0.68
+      }
+    ],
+    "publishedAt": "2026-09-08T11:37:01Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 93369,
+      "likes": 13270,
+      "shares": 2181
+    }
+  },
+  {
+    "id": "sty_0072",
+    "creatorId": "crt_0021",
+    "segments": [
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty72-0/720/1280",
+        "durationMs": 5000
+      }
+    ],
+    "caption": "Under ₹999 finds you'll love",
+    "taggedProducts": [
+      {
+        "productId": "prd_0040",
+        "segmentIndex": 0,
+        "x": 0.2,
+        "y": 0.44
+      }
+    ],
+    "publishedAt": "2026-08-19T04:05:38Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 113499,
+      "likes": 13617,
+      "shares": 592
+    }
+  },
+  {
+    "id": "sty_0073",
+    "creatorId": "crt_0029",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/73/0.mp4",
+        "durationMs": 4260,
+        "posterUrl": "https://picsum.photos/seed/sty73-0/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty73-1/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/73/2.mp4",
+        "durationMs": 11602,
+        "posterUrl": "https://picsum.photos/seed/sty73-2/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/73/3.mp4",
+        "durationMs": 10246,
+        "posterUrl": "https://picsum.photos/seed/sty73-3/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty73-4/720/1280",
+        "durationMs": 5000
+      }
+    ],
+    "caption": "Unboxing my handmade haul",
+    "taggedProducts": [
+      {
+        "productId": "prd_0094",
+        "segmentIndex": 0,
+        "x": 0.92,
+        "y": 1
+      },
+      {
+        "productId": "prd_0038",
+        "segmentIndex": 2,
+        "x": 0.99,
+        "y": 0.4
+      },
+      {
+        "productId": "prd_0115",
+        "segmentIndex": 3,
+        "x": 0.17,
+        "y": 0.93
+      }
+    ],
+    "publishedAt": "2026-08-16T07:22:47Z",
+    "expiresAt": "2026-08-17T07:22:47Z",
+    "stats": {
+      "views": 89414,
+      "likes": 848,
+      "shares": 1290
+    }
+  },
+  {
+    "id": "sty_0074",
+    "creatorId": "crt_0017",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/74/0.mp4",
+        "durationMs": 10981,
+        "posterUrl": "https://picsum.photos/seed/sty74-0/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/74/1.mp4",
+        "durationMs": 13288,
+        "posterUrl": "https://picsum.photos/seed/sty74-1/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty74-2/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/74/3.mp4",
+        "durationMs": 12278,
+        "posterUrl": "https://picsum.photos/seed/sty74-3/720/1280"
+      }
+    ],
+    "caption": "Behind the loom with the artisans",
+    "taggedProducts": [
+      {
+        "productId": "prd_0182",
+        "segmentIndex": 0,
+        "x": 0.88,
+        "y": 0.28
+      },
+      {
+        "productId": "prd_0038",
+        "segmentIndex": 1,
+        "x": 0.69,
+        "y": 0.3
+      },
+      {
+        "productId": "prd_0133",
+        "segmentIndex": 2,
+        "x": 0.03,
+        "y": 0.47
+      },
+      {
+        "productId": "prd_0129",
+        "segmentIndex": 3,
+        "x": 0.61,
+        "y": 0.71
+      }
+    ],
+    "publishedAt": "2026-08-12T20:26:18Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 235981,
+      "likes": 10713,
+      "shares": 787
+    }
+  },
+  {
+    "id": "sty_0075",
+    "creatorId": "crt_0030",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/75/0.mp4",
+        "durationMs": 11268,
+        "posterUrl": "https://picsum.photos/seed/sty75-0/720/1280"
+      }
+    ],
+    "caption": "3 ways to wear one dupatta",
+    "taggedProducts": [],
+    "publishedAt": "2026-08-06T01:12:48Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 131479,
+      "likes": 15671,
+      "shares": 2232
+    }
+  },
+  {
+    "id": "sty_0076",
+    "creatorId": "crt_0009",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/76/0.mp4",
+        "durationMs": 4027,
+        "posterUrl": "https://picsum.photos/seed/sty76-0/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/76/1.mp4",
+        "durationMs": 4808,
+        "posterUrl": "https://picsum.photos/seed/sty76-1/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/76/2.mp4",
+        "durationMs": 7586,
+        "posterUrl": "https://picsum.photos/seed/sty76-2/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty76-3/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/76/4.mp4",
+        "durationMs": 9115,
+        "posterUrl": "https://picsum.photos/seed/sty76-4/720/1280"
+      }
+    ],
+    "caption": "Monsoon-ready cottons",
+    "taggedProducts": [
+      {
+        "productId": "prd_0102",
+        "segmentIndex": 0,
+        "x": 0.39,
+        "y": 0.88
+      },
+      {
+        "productId": "prd_0096",
+        "segmentIndex": 1,
+        "x": 0.59,
+        "y": 0.31
+      },
+      {
+        "productId": "prd_0090",
+        "segmentIndex": 2,
+        "x": 0.62,
+        "y": 0.63
+      },
+      {
+        "productId": "prd_0028",
+        "segmentIndex": 4,
+        "x": 0.01,
+        "y": 0.57
+      }
+    ],
+    "publishedAt": "2026-08-19T06:34:43Z",
+    "expiresAt": "2026-08-20T06:34:43Z",
+    "stats": {
+      "views": 222981,
+      "likes": 11177,
+      "shares": 413
+    }
+  },
+  {
+    "id": "sty_0077",
+    "creatorId": "crt_0031",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/77/0.mp4",
+        "durationMs": 14787,
+        "posterUrl": "https://picsum.photos/seed/sty77-0/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty77-1/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/77/2.mp4",
+        "durationMs": 14616,
+        "posterUrl": "https://picsum.photos/seed/sty77-2/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/77/3.mp4",
+        "durationMs": 9609,
+        "posterUrl": "https://picsum.photos/seed/sty77-3/720/1280"
+      }
+    ],
+    "caption": "3 ways to wear one dupatta",
+    "taggedProducts": [
+      {
+        "productId": "prd_0087",
+        "segmentIndex": 0,
+        "x": 0.71,
+        "y": 0.42
+      },
+      {
+        "productId": "prd_0168",
+        "segmentIndex": 1,
+        "x": 0.47,
+        "y": 0.03
+      },
+      {
+        "productId": "prd_0157",
+        "segmentIndex": 2,
+        "x": 0.93,
+        "y": 0.22
+      },
+      {
+        "productId": "prd_0079",
+        "segmentIndex": 3,
+        "x": 0.81,
+        "y": 0.72
+      }
+    ],
+    "publishedAt": "2026-08-23T07:25:56Z",
+    "expiresAt": "2026-08-24T07:25:56Z",
+    "stats": {
+      "views": 110809,
+      "likes": 4216,
+      "shares": 821
+    }
+  },
+  {
+    "id": "sty_0078",
+    "creatorId": "crt_0024",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/78/0.mp4",
+        "durationMs": 14962,
+        "posterUrl": "https://picsum.photos/seed/sty78-0/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/78/1.mp4",
+        "durationMs": 7490,
+        "posterUrl": "https://picsum.photos/seed/sty78-1/720/1280"
+      }
+    ],
+    "caption": "3 ways to wear one dupatta",
+    "taggedProducts": [],
+    "publishedAt": "2026-08-08T13:21:43Z",
+    "expiresAt": "2026-08-09T13:21:43Z",
+    "stats": {
+      "views": 223347,
+      "likes": 19201,
+      "shares": 1018
+    }
+  },
+  {
+    "id": "sty_0079",
+    "creatorId": "crt_0005",
+    "segments": [
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty79-0/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty79-1/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty79-2/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty79-3/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/79/4.mp4",
+        "durationMs": 13127,
+        "posterUrl": "https://picsum.photos/seed/sty79-4/720/1280"
+      }
+    ],
+    "caption": "Behind the loom with the artisans",
+    "taggedProducts": [
+      {
+        "productId": "prd_0009",
+        "segmentIndex": 3,
+        "x": 0.67,
+        "y": 0.64
+      }
+    ],
+    "publishedAt": "2026-08-16T10:24:38Z",
+    "expiresAt": "2026-08-17T10:24:38Z",
+    "stats": {
+      "views": 67983,
+      "likes": 8363,
+      "shares": 1174
+    }
+  },
+  {
+    "id": "sty_0080",
+    "creatorId": "crt_0017",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/80/0.mp4",
+        "durationMs": 14811,
+        "posterUrl": "https://picsum.photos/seed/sty80-0/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty80-1/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty80-2/720/1280",
+        "durationMs": 5000
+      }
+    ],
+    "caption": "Unboxing my handmade haul",
+    "taggedProducts": [
+      {
+        "productId": "prd_0018",
+        "segmentIndex": 0,
+        "x": 0.45,
+        "y": 0.96
+      },
+      {
+        "productId": "prd_0122",
+        "segmentIndex": 1,
+        "x": 0.61,
+        "y": 0.94
+      }
+    ],
+    "publishedAt": "2026-08-31T16:39:49Z",
+    "expiresAt": "2026-09-01T16:39:49Z",
+    "stats": {
+      "views": 177599,
+      "likes": 15299,
+      "shares": 458
+    }
+  },
+  {
+    "id": "sty_0081",
+    "creatorId": "crt_0022",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/81/0.mp4",
+        "durationMs": 5350,
+        "posterUrl": "https://picsum.photos/seed/sty81-0/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty81-1/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/81/2.mp4",
+        "durationMs": 11692,
+        "posterUrl": "https://picsum.photos/seed/sty81-2/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty81-3/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/81/4.mp4",
+        "durationMs": 14645,
+        "posterUrl": "https://picsum.photos/seed/sty81-4/720/1280"
+      }
+    ],
+    "caption": "Styling this for Diwali 🪔",
+    "taggedProducts": [
+      {
+        "productId": "prd_0009",
+        "segmentIndex": 2,
+        "x": 0.52,
+        "y": 0.13
+      },
+      {
+        "productId": "prd_0129",
+        "segmentIndex": 3,
+        "x": 0.86,
+        "y": 0.72
+      },
+      {
+        "productId": "prd_0090",
+        "segmentIndex": 4,
+        "x": 0.96,
+        "y": 0.05
+      }
+    ],
+    "publishedAt": "2026-08-02T18:51:13Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 105728,
+      "likes": 18612,
+      "shares": 2985
+    }
+  },
+  {
+    "id": "sty_0082",
+    "creatorId": "crt_0011",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/82/0.mp4",
+        "durationMs": 5696,
+        "posterUrl": "https://picsum.photos/seed/sty82-0/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/82/1.mp4",
+        "durationMs": 12295,
+        "posterUrl": "https://picsum.photos/seed/sty82-1/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty82-2/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty82-3/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/82/4.mp4",
+        "durationMs": 9992,
+        "posterUrl": "https://picsum.photos/seed/sty82-4/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty82-5/720/1280",
+        "durationMs": 5000
+      }
+    ],
+    "caption": "Is it worth the hype? Honest review",
+    "taggedProducts": [
+      {
+        "productId": "prd_0009",
+        "segmentIndex": 2,
+        "x": 0.26,
+        "y": 0.4
+      },
+      {
+        "productId": "prd_0103",
+        "segmentIndex": 3,
+        "x": 0.04,
+        "y": 0.34
+      },
+      {
+        "productId": "prd_0054",
+        "segmentIndex": 5,
+        "x": 0.19,
+        "y": 0.67
+      }
+    ],
+    "publishedAt": "2026-08-27T20:13:25Z",
+    "expiresAt": "2026-08-28T20:13:25Z",
+    "stats": {
+      "views": 64571,
+      "likes": 3088,
+      "shares": 343
+    }
+  },
+  {
+    "id": "sty_0083",
+    "creatorId": "crt_0040",
+    "segments": [
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty83-0/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/83/1.mp4",
+        "durationMs": 12619,
+        "posterUrl": "https://picsum.photos/seed/sty83-1/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty83-2/720/1280",
+        "durationMs": 5000
+      }
+    ],
+    "caption": "Is it worth the hype? Honest review",
+    "taggedProducts": [
+      {
+        "productId": "prd_0056",
+        "segmentIndex": 0,
+        "x": 0.52,
+        "y": 0.21
+      }
+    ],
+    "publishedAt": "2026-08-18T11:45:42Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 84234,
+      "likes": 8547,
+      "shares": 2413
+    }
+  },
+  {
+    "id": "sty_0084",
+    "creatorId": "crt_0035",
+    "segments": [
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty84-0/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/84/1.mp4",
+        "durationMs": 8659,
+        "posterUrl": "https://picsum.photos/seed/sty84-1/720/1280"
+      }
+    ],
+    "caption": "Styling this for Diwali 🪔",
+    "taggedProducts": [
+      {
+        "productId": "prd_0157",
+        "segmentIndex": 1,
+        "x": 0.87,
+        "y": 0.09
+      }
+    ],
+    "publishedAt": "2026-08-22T00:36:36Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 117149,
+      "likes": 3482,
+      "shares": 545
+    }
+  },
+  {
+    "id": "sty_0085",
+    "creatorId": "crt_0006",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/85/0.mp4",
+        "durationMs": 6902,
+        "posterUrl": "https://picsum.photos/seed/sty85-0/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty85-1/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/85/2.mp4",
+        "durationMs": 13373,
+        "posterUrl": "https://picsum.photos/seed/sty85-2/720/1280"
+      }
+    ],
+    "caption": "3 ways to wear one dupatta",
+    "taggedProducts": [
+      {
+        "productId": "prd_0101",
+        "segmentIndex": 0,
+        "x": 0.6,
+        "y": 0.67
+      },
+      {
+        "productId": "prd_0086",
+        "segmentIndex": 1,
+        "x": 0.39,
+        "y": 0.61
+      },
+      {
+        "productId": "prd_0106",
+        "segmentIndex": 2,
+        "x": 0.45,
+        "y": 0.53
+      }
+    ],
+    "publishedAt": "2026-08-12T01:20:57Z",
+    "expiresAt": "2026-08-13T01:20:57Z",
+    "stats": {
+      "views": 114953,
+      "likes": 7121,
+      "shares": 1184
+    }
+  },
+  {
+    "id": "sty_0086",
+    "creatorId": "crt_0026",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/86/0.mp4",
+        "durationMs": 14408,
+        "posterUrl": "https://picsum.photos/seed/sty86-0/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty86-1/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty86-2/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/86/3.mp4",
+        "durationMs": 4744,
+        "posterUrl": "https://picsum.photos/seed/sty86-3/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty86-4/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty86-5/720/1280",
+        "durationMs": 5000
+      }
+    ],
+    "caption": "Is it worth the hype? Honest review",
+    "taggedProducts": [
+      {
+        "productId": "prd_0073",
+        "segmentIndex": 0,
+        "x": 0.38,
+        "y": 0.01
+      },
+      {
+        "productId": "prd_0135",
+        "segmentIndex": 1,
+        "x": 0.42,
+        "y": 0.3
+      },
+      {
+        "productId": "prd_0129",
+        "segmentIndex": 5,
+        "x": 0.42,
+        "y": 0.97
+      }
+    ],
+    "publishedAt": "2026-09-10T15:58:35Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 198650,
+      "likes": 9691,
+      "shares": 1891
+    }
+  },
+  {
+    "id": "sty_0087",
+    "creatorId": "crt_0006",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/87/0.mp4",
+        "durationMs": 9516,
+        "posterUrl": "https://picsum.photos/seed/sty87-0/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty87-1/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/87/2.mp4",
+        "durationMs": 13175,
+        "posterUrl": "https://picsum.photos/seed/sty87-2/720/1280"
+      }
+    ],
+    "caption": "Monsoon-ready cottons",
+    "taggedProducts": [
+      {
+        "productId": "prd_0012",
+        "segmentIndex": 0,
+        "x": 0.14,
+        "y": 0.34
+      },
+      {
+        "productId": "prd_0038",
+        "segmentIndex": 1,
+        "x": 0.37,
+        "y": 0.56
+      },
+      {
+        "productId": "prd_0155",
+        "segmentIndex": 2,
+        "x": 0.35,
+        "y": 0.88
+      }
+    ],
+    "publishedAt": "2026-09-10T16:01:24Z",
+    "expiresAt": "2026-09-11T16:01:24Z",
+    "stats": {
+      "views": 1216,
+      "likes": 4367,
+      "shares": 473
+    }
+  },
+  {
+    "id": "sty_0088",
+    "creatorId": "crt_0037",
+    "segments": [
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty88-0/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/88/1.mp4",
+        "durationMs": 4754,
+        "posterUrl": "https://picsum.photos/seed/sty88-1/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty88-2/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/88/3.mp4",
+        "durationMs": 12943,
+        "posterUrl": "https://picsum.photos/seed/sty88-3/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/88/4.mp4",
+        "durationMs": 14196,
+        "posterUrl": "https://picsum.photos/seed/sty88-4/720/1280"
+      }
+    ],
+    "caption": "Unboxing my handmade haul",
+    "taggedProducts": [
+      {
+        "productId": "prd_0076",
+        "segmentIndex": 1,
+        "x": 0.68,
+        "y": 0.41
+      },
+      {
+        "productId": "prd_0189",
+        "segmentIndex": 2,
+        "x": 0.92,
+        "y": 0.35
+      }
+    ],
+    "publishedAt": "2026-08-15T02:11:58Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 131280,
+      "likes": 16756,
+      "shares": 2152
+    }
+  },
+  {
+    "id": "sty_0089",
+    "creatorId": "crt_0025",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/89/0.mp4",
+        "durationMs": 12995,
+        "posterUrl": "https://picsum.photos/seed/sty89-0/720/1280"
+      }
+    ],
+    "caption": "Unboxing my handmade haul",
+    "taggedProducts": [
+      {
+        "productId": "prd_0077",
+        "segmentIndex": 0,
+        "x": 0.48,
+        "y": 0.93
+      }
+    ],
+    "publishedAt": "2026-08-29T18:56:03Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 161320,
+      "likes": 4137,
+      "shares": 1708
+    }
+  },
+  {
+    "id": "sty_0090",
+    "creatorId": "crt_0013",
+    "segments": [
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty90-0/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/90/1.mp4",
+        "durationMs": 8921,
+        "posterUrl": "https://picsum.photos/seed/sty90-1/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty90-2/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty90-3/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/90/4.mp4",
+        "durationMs": 12556,
+        "posterUrl": "https://picsum.photos/seed/sty90-4/720/1280"
+      }
+    ],
+    "caption": "Gifting ideas for Rakhi",
+    "taggedProducts": [
+      {
+        "productId": "prd_0135",
+        "segmentIndex": 0,
+        "x": 0.31,
+        "y": 0.2
+      },
+      {
+        "productId": "prd_0139",
+        "segmentIndex": 1,
+        "x": 0.4,
+        "y": 0.84
+      },
+      {
+        "productId": "prd_0148",
+        "segmentIndex": 2,
+        "x": 0.57,
+        "y": 0.8
+      },
+      {
+        "productId": "prd_0038",
+        "segmentIndex": 3,
+        "x": 0.58,
+        "y": 0.58
+      }
+    ],
+    "publishedAt": "2026-08-30T11:02:58Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 209086,
+      "likes": 5969,
+      "shares": 96
+    }
+  },
+  {
+    "id": "sty_0091",
+    "creatorId": "crt_0039",
+    "segments": [
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty91-0/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty91-1/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/91/2.mp4",
+        "durationMs": 7967,
+        "posterUrl": "https://picsum.photos/seed/sty91-2/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty91-3/720/1280",
+        "durationMs": 5000
+      }
+    ],
+    "caption": "Is it worth the hype? Honest review",
+    "taggedProducts": [
+      {
+        "productId": "prd_0020",
+        "segmentIndex": 1,
+        "x": 0.59,
+        "y": 0.24
+      },
+      {
+        "productId": "prd_0168",
+        "segmentIndex": 2,
+        "x": 0.47,
+        "y": 0.74
+      }
+    ],
+    "publishedAt": "2026-08-12T11:51:07Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 40476,
+      "likes": 9537,
+      "shares": 1582
+    }
+  },
+  {
+    "id": "sty_0092",
+    "creatorId": "crt_0027",
+    "segments": [
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty92-0/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/92/1.mp4",
+        "durationMs": 13066,
+        "posterUrl": "https://picsum.photos/seed/sty92-1/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty92-2/720/1280",
+        "durationMs": 5000
+      }
+    ],
+    "caption": "Styling this for Diwali 🪔",
+    "taggedProducts": [
+      {
+        "productId": "prd_0130",
+        "segmentIndex": 0,
+        "x": 0.59,
+        "y": 0.9
+      }
+    ],
+    "publishedAt": "2026-08-22T11:31:54Z",
+    "expiresAt": "2026-08-23T11:31:54Z",
+    "stats": {
+      "views": 77405,
+      "likes": 1834,
+      "shares": 688
+    }
+  },
+  {
+    "id": "sty_0093",
+    "creatorId": "crt_0013",
+    "segments": [
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty93-0/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/93/1.mp4",
+        "durationMs": 6904,
+        "posterUrl": "https://picsum.photos/seed/sty93-1/720/1280"
+      }
+    ],
+    "caption": "Yeh kurta toh must-have hai!",
+    "taggedProducts": [
+      {
+        "productId": "prd_0007",
+        "segmentIndex": 1,
+        "x": 0.15,
+        "y": 0.27
+      }
+    ],
+    "publishedAt": "2026-09-10T01:29:41Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 182430,
+      "likes": 11321,
+      "shares": 1784
+    }
+  },
+  {
+    "id": "sty_0094",
+    "creatorId": "crt_0004",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/94/0.mp4",
+        "durationMs": 10703,
+        "posterUrl": "https://picsum.photos/seed/sty94-0/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/94/1.mp4",
+        "durationMs": 11538,
+        "posterUrl": "https://picsum.photos/seed/sty94-1/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/94/2.mp4",
+        "durationMs": 10803,
+        "posterUrl": "https://picsum.photos/seed/sty94-2/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty94-3/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty94-4/720/1280",
+        "durationMs": 5000
+      }
+    ],
+    "caption": "Is it worth the hype? Honest review",
+    "taggedProducts": [
+      {
+        "productId": "prd_0155",
+        "segmentIndex": 2,
+        "x": 0.96,
+        "y": 0.49
+      }
+    ],
+    "publishedAt": "2026-08-09T14:36:04Z",
+    "expiresAt": "2026-08-10T14:36:04Z",
+    "stats": {
+      "views": 21367,
+      "likes": 3233,
+      "shares": 2190
+    }
+  },
+  {
+    "id": "sty_0095",
+    "creatorId": "crt_0014",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/95/0.mp4",
+        "durationMs": 12119,
+        "posterUrl": "https://picsum.photos/seed/sty95-0/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/95/1.mp4",
+        "durationMs": 4129,
+        "posterUrl": "https://picsum.photos/seed/sty95-1/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/95/2.mp4",
+        "durationMs": 4913,
+        "posterUrl": "https://picsum.photos/seed/sty95-2/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty95-3/720/1280",
+        "durationMs": 5000
+      }
+    ],
+    "caption": "Styling this for Diwali 🪔",
+    "taggedProducts": [
+      {
+        "productId": "prd_0046",
+        "segmentIndex": 0,
+        "x": 0.29,
+        "y": 0.94
+      },
+      {
+        "productId": "prd_0058",
+        "segmentIndex": 3,
+        "x": 0.61,
+        "y": 0.09
+      }
+    ],
+    "publishedAt": "2026-08-24T11:02:18Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 92748,
+      "likes": 19966,
+      "shares": 119
+    }
+  },
+  {
+    "id": "sty_0096",
+    "creatorId": "crt_0035",
+    "segments": [
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty96-0/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/96/1.mp4",
+        "durationMs": 6464,
+        "posterUrl": "https://picsum.photos/seed/sty96-1/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/96/2.mp4",
+        "durationMs": 7091,
+        "posterUrl": "https://picsum.photos/seed/sty96-2/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/96/3.mp4",
+        "durationMs": 12466,
+        "posterUrl": "https://picsum.photos/seed/sty96-3/720/1280"
+      }
+    ],
+    "caption": "Gifting ideas for Rakhi",
+    "taggedProducts": [
+      {
+        "productId": "prd_0056",
+        "segmentIndex": 0,
+        "x": 0.43,
+        "y": 0.45
+      }
+    ],
+    "publishedAt": "2026-09-02T17:51:08Z",
+    "expiresAt": "2026-09-03T17:51:08Z",
+    "stats": {
+      "views": 37803,
+      "likes": 12428,
+      "shares": 1283
+    }
+  },
+  {
+    "id": "sty_0097",
+    "creatorId": "crt_0038",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/97/0.mp4",
+        "durationMs": 7235,
+        "posterUrl": "https://picsum.photos/seed/sty97-0/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty97-1/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/97/2.mp4",
+        "durationMs": 14638,
+        "posterUrl": "https://picsum.photos/seed/sty97-2/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty97-3/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/97/4.mp4",
+        "durationMs": 12081,
+        "posterUrl": "https://picsum.photos/seed/sty97-4/720/1280"
+      }
+    ],
+    "caption": "Styling this for Diwali 🪔",
+    "taggedProducts": [
+      {
+        "productId": "prd_0169",
+        "segmentIndex": 0,
+        "x": 0.24,
+        "y": 0.14
+      },
+      {
+        "productId": "prd_0109",
+        "segmentIndex": 2,
+        "x": 0.34,
+        "y": 0.8
+      }
+    ],
+    "publishedAt": "2026-08-03T05:38:00Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 224244,
+      "likes": 13665,
+      "shares": 1284
+    }
+  },
+  {
+    "id": "sty_0098",
+    "creatorId": "crt_0031",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/98/0.mp4",
+        "durationMs": 11432,
+        "posterUrl": "https://picsum.photos/seed/sty98-0/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/98/1.mp4",
+        "durationMs": 11381,
+        "posterUrl": "https://picsum.photos/seed/sty98-1/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty98-2/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/98/3.mp4",
+        "durationMs": 11996,
+        "posterUrl": "https://picsum.photos/seed/sty98-3/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/98/4.mp4",
+        "durationMs": 11984,
+        "posterUrl": "https://picsum.photos/seed/sty98-4/720/1280"
+      }
+    ],
+    "caption": "3 ways to wear one dupatta",
+    "taggedProducts": [
+      {
+        "productId": "prd_0058",
+        "segmentIndex": 0,
+        "x": 0.73,
+        "y": 0.56
+      },
+      {
+        "productId": "prd_0143",
+        "segmentIndex": 4,
+        "x": 0.87,
+        "y": 0.87
+      }
+    ],
+    "publishedAt": "2026-08-09T15:28:55Z",
+    "expiresAt": "2026-08-10T15:28:55Z",
+    "stats": {
+      "views": 25372,
+      "likes": 12189,
+      "shares": 1734
+    }
+  },
+  {
+    "id": "sty_0099",
+    "creatorId": "crt_0032",
+    "segments": [
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty99-0/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/99/1.mp4",
+        "durationMs": 12732,
+        "posterUrl": "https://picsum.photos/seed/sty99-1/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/99/2.mp4",
+        "durationMs": 4999,
+        "posterUrl": "https://picsum.photos/seed/sty99-2/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/99/3.mp4",
+        "durationMs": 13531,
+        "posterUrl": "https://picsum.photos/seed/sty99-3/720/1280"
+      }
+    ],
+    "caption": "Unboxing my handmade haul",
+    "taggedProducts": [
+      {
+        "productId": "prd_0100",
+        "segmentIndex": 0,
+        "x": 0.04,
+        "y": 0.84
+      },
+      {
+        "productId": "prd_0125",
+        "segmentIndex": 3,
+        "x": 0.62,
+        "y": 0.15
+      }
+    ],
+    "publishedAt": "2026-08-25T11:31:08Z",
+    "expiresAt": "2026-08-26T11:31:08Z",
+    "stats": {
+      "views": 244528,
+      "likes": 1232,
+      "shares": 1765
+    }
+  },
+  {
+    "id": "sty_0100",
+    "creatorId": "crt_0011",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/100/0.mp4",
+        "durationMs": 8499,
+        "posterUrl": "https://picsum.photos/seed/sty100-0/720/1280"
+      }
+    ],
+    "caption": "Monsoon-ready cottons",
+    "taggedProducts": [
+      {
+        "productId": "prd_0054",
+        "segmentIndex": 0,
+        "x": 0.69,
+        "y": 0.43
+      }
+    ],
+    "publishedAt": "2026-08-16T12:20:30Z",
+    "expiresAt": "2026-08-17T12:20:30Z",
+    "stats": {
+      "views": 143925,
+      "likes": 18024,
+      "shares": 1766
+    }
+  },
+  {
+    "id": "sty_0101",
+    "creatorId": "crt_0023",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/101/0.mp4",
+        "durationMs": 7760,
+        "posterUrl": "https://picsum.photos/seed/sty101-0/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/101/1.mp4",
+        "durationMs": 9488,
+        "posterUrl": "https://picsum.photos/seed/sty101-1/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty101-2/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/101/3.mp4",
+        "durationMs": 9992,
+        "posterUrl": "https://picsum.photos/seed/sty101-3/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/101/4.mp4",
+        "durationMs": 10067,
+        "posterUrl": "https://picsum.photos/seed/sty101-4/720/1280"
+      }
+    ],
+    "caption": "3 ways to wear one dupatta",
+    "taggedProducts": [
+      {
+        "productId": "prd_0068",
+        "segmentIndex": 0,
+        "x": 0.46,
+        "y": 0.43
+      },
+      {
+        "productId": "prd_0056",
+        "segmentIndex": 1,
+        "x": 0.18,
+        "y": 0.36
+      },
+      {
+        "productId": "prd_0116",
+        "segmentIndex": 2,
+        "x": 0.31,
+        "y": 0.28
+      },
+      {
+        "productId": "prd_0102",
+        "segmentIndex": 3,
+        "x": 0.32,
+        "y": 0.48
+      }
+    ],
+    "publishedAt": "2026-08-26T20:11:59Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 95641,
+      "likes": 2207,
+      "shares": 602
+    }
+  },
+  {
+    "id": "sty_0102",
+    "creatorId": "crt_0016",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/102/0.mp4",
+        "durationMs": 6118,
+        "posterUrl": "https://picsum.photos/seed/sty102-0/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/102/1.mp4",
+        "durationMs": 6065,
+        "posterUrl": "https://picsum.photos/seed/sty102-1/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/102/2.mp4",
+        "durationMs": 7019,
+        "posterUrl": "https://picsum.photos/seed/sty102-2/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/102/3.mp4",
+        "durationMs": 8321,
+        "posterUrl": "https://picsum.photos/seed/sty102-3/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty102-4/720/1280",
+        "durationMs": 5000
+      }
+    ],
+    "caption": "Is it worth the hype? Honest review",
+    "taggedProducts": [
+      {
+        "productId": "prd_0039",
+        "segmentIndex": 1,
+        "x": 0.64,
+        "y": 0.28
+      },
+      {
+        "productId": "prd_0123",
+        "segmentIndex": 2,
+        "x": 0.56,
+        "y": 0.13
+      }
+    ],
+    "publishedAt": "2026-09-02T14:38:06Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 201503,
+      "likes": 1980,
+      "shares": 1947
+    }
+  },
+  {
+    "id": "sty_0103",
+    "creatorId": "crt_0017",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/103/0.mp4",
+        "durationMs": 10836,
+        "posterUrl": "https://picsum.photos/seed/sty103-0/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty103-1/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/103/2.mp4",
+        "durationMs": 5501,
+        "posterUrl": "https://picsum.photos/seed/sty103-2/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/103/3.mp4",
+        "durationMs": 7100,
+        "posterUrl": "https://picsum.photos/seed/sty103-3/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/103/4.mp4",
+        "durationMs": 10021,
+        "posterUrl": "https://picsum.photos/seed/sty103-4/720/1280"
+      }
+    ],
+    "caption": "Styling this for Diwali 🪔",
+    "taggedProducts": [
+      {
+        "productId": "prd_0118",
+        "segmentIndex": 0,
+        "x": 0.19,
+        "y": 0.38
+      },
+      {
+        "productId": "prd_0077",
+        "segmentIndex": 1,
+        "x": 0.26,
+        "y": 0.04
+      }
+    ],
+    "publishedAt": "2026-08-18T20:09:50Z",
+    "expiresAt": "2026-08-19T20:09:50Z",
+    "stats": {
+      "views": 153231,
+      "likes": 9289,
+      "shares": 1913
+    }
+  },
+  {
+    "id": "sty_0104",
+    "creatorId": "crt_0022",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/104/0.mp4",
+        "durationMs": 8734,
+        "posterUrl": "https://picsum.photos/seed/sty104-0/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty104-1/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty104-2/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/104/3.mp4",
+        "durationMs": 9370,
+        "posterUrl": "https://picsum.photos/seed/sty104-3/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty104-4/720/1280",
+        "durationMs": 5000
+      }
+    ],
+    "caption": "Under ₹999 finds you'll love",
+    "taggedProducts": [
+      {
+        "productId": "prd_0109",
+        "segmentIndex": 1,
+        "x": 0.35,
+        "y": 0.94
+      },
+      {
+        "productId": "prd_0048",
+        "segmentIndex": 2,
+        "x": 0.2,
+        "y": 0.55
+      },
+      {
+        "productId": "prd_0179",
+        "segmentIndex": 3,
+        "x": 0.98,
+        "y": 0.1
+      }
+    ],
+    "publishedAt": "2026-08-18T02:10:20Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 84189,
+      "likes": 5738,
+      "shares": 1556
+    }
+  },
+  {
+    "id": "sty_0105",
+    "creatorId": "crt_0040",
+    "segments": [
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty105-0/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/105/1.mp4",
+        "durationMs": 14610,
+        "posterUrl": "https://picsum.photos/seed/sty105-1/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty105-2/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty105-3/720/1280",
+        "durationMs": 5000
+      }
+    ],
+    "caption": "Styling this for Diwali 🪔",
+    "taggedProducts": [
+      {
+        "productId": "prd_0145",
+        "segmentIndex": 0,
+        "x": 0.14,
+        "y": 0.57
+      }
+    ],
+    "publishedAt": "2026-08-02T05:33:34Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 83102,
+      "likes": 5689,
+      "shares": 206
+    }
+  },
+  {
+    "id": "sty_0106",
+    "creatorId": "crt_0008",
+    "segments": [
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty106-0/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/106/1.mp4",
+        "durationMs": 8471,
+        "posterUrl": "https://picsum.photos/seed/sty106-1/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/106/2.mp4",
+        "durationMs": 11640,
+        "posterUrl": "https://picsum.photos/seed/sty106-2/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/106/3.mp4",
+        "durationMs": 10282,
+        "posterUrl": "https://picsum.photos/seed/sty106-3/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/106/4.mp4",
+        "durationMs": 4839,
+        "posterUrl": "https://picsum.photos/seed/sty106-4/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/106/5.mp4",
+        "durationMs": 9093,
+        "posterUrl": "https://picsum.photos/seed/sty106-5/720/1280"
+      }
+    ],
+    "caption": "Monsoon-ready cottons",
+    "taggedProducts": [
+      {
+        "productId": "prd_0016",
+        "segmentIndex": 2,
+        "x": 0.74,
+        "y": 0.72
+      },
+      {
+        "productId": "prd_0040",
+        "segmentIndex": 4,
+        "x": 0.72,
+        "y": 0.82
+      }
+    ],
+    "publishedAt": "2026-08-01T02:55:21Z",
+    "expiresAt": "2026-08-02T02:55:21Z",
+    "stats": {
+      "views": 194624,
+      "likes": 16474,
+      "shares": 1348
+    }
+  },
+  {
+    "id": "sty_0107",
+    "creatorId": "crt_0001",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/107/0.mp4",
+        "durationMs": 11570,
+        "posterUrl": "https://picsum.photos/seed/sty107-0/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty107-1/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/107/2.mp4",
+        "durationMs": 9734,
+        "posterUrl": "https://picsum.photos/seed/sty107-2/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty107-3/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty107-4/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/107/5.mp4",
+        "durationMs": 5416,
+        "posterUrl": "https://picsum.photos/seed/sty107-5/720/1280"
+      }
+    ],
+    "caption": "Is it worth the hype? Honest review",
+    "taggedProducts": [
+      {
+        "productId": "prd_0168",
+        "segmentIndex": 1,
+        "x": 0.55,
+        "y": 0.67
+      },
+      {
+        "productId": "prd_0088",
+        "segmentIndex": 3,
+        "x": 0.98,
+        "y": 0.72
+      },
+      {
+        "productId": "prd_0090",
+        "segmentIndex": 5,
+        "x": 0.85,
+        "y": 0.14
+      }
+    ],
+    "publishedAt": "2026-08-16T17:34:05Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 27238,
+      "likes": 3367,
+      "shares": 2460
+    }
+  },
+  {
+    "id": "sty_0108",
+    "creatorId": "crt_0001",
+    "segments": [
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty108-0/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/108/1.mp4",
+        "durationMs": 10510,
+        "posterUrl": "https://picsum.photos/seed/sty108-1/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/108/2.mp4",
+        "durationMs": 10941,
+        "posterUrl": "https://picsum.photos/seed/sty108-2/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty108-3/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/108/4.mp4",
+        "durationMs": 13538,
+        "posterUrl": "https://picsum.photos/seed/sty108-4/720/1280"
+      }
+    ],
+    "caption": "Under ₹999 finds you'll love",
+    "taggedProducts": [
+      {
+        "productId": "prd_0031",
+        "segmentIndex": 1,
+        "x": 0.14,
+        "y": 0.76
+      },
+      {
+        "productId": "prd_0021",
+        "segmentIndex": 2,
+        "x": 0.38,
+        "y": 0.42
+      },
+      {
+        "productId": "prd_0035",
+        "segmentIndex": 3,
+        "x": 0.56,
+        "y": 0.72
+      },
+      {
+        "productId": "prd_0089",
+        "segmentIndex": 4,
+        "x": 0.25,
+        "y": 0.91
+      }
+    ],
+    "publishedAt": "2026-08-22T12:38:29Z",
+    "expiresAt": "2026-08-23T12:38:29Z",
+    "stats": {
+      "views": 209763,
+      "likes": 11801,
+      "shares": 1437
+    }
+  },
+  {
+    "id": "sty_0109",
+    "creatorId": "crt_0015",
+    "segments": [
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty109-0/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/109/1.mp4",
+        "durationMs": 12883,
+        "posterUrl": "https://picsum.photos/seed/sty109-1/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/109/2.mp4",
+        "durationMs": 11298,
+        "posterUrl": "https://picsum.photos/seed/sty109-2/720/1280"
+      }
+    ],
+    "caption": "Gifting ideas for Rakhi",
+    "taggedProducts": [
+      {
+        "productId": "prd_0006",
+        "segmentIndex": 1,
+        "x": 0.92,
+        "y": 0.39
+      },
+      {
+        "productId": "prd_0179",
+        "segmentIndex": 2,
+        "x": 0.42,
+        "y": 0.41
+      }
+    ],
+    "publishedAt": "2026-09-02T23:01:07Z",
+    "expiresAt": "2026-09-03T23:01:07Z",
+    "stats": {
+      "views": 55461,
+      "likes": 19342,
+      "shares": 2319
+    }
+  },
+  {
+    "id": "sty_0110",
+    "creatorId": "crt_0038",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/110/0.mp4",
+        "durationMs": 10151,
+        "posterUrl": "https://picsum.photos/seed/sty110-0/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty110-1/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/110/2.mp4",
+        "durationMs": 6013,
+        "posterUrl": "https://picsum.photos/seed/sty110-2/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty110-3/720/1280",
+        "durationMs": 5000
+      }
+    ],
+    "caption": "Unboxing my handmade haul",
+    "taggedProducts": [
+      {
+        "productId": "prd_0194",
+        "segmentIndex": 3,
+        "x": 0.73,
+        "y": 0.34
+      }
+    ],
+    "publishedAt": "2026-08-10T08:02:21Z",
+    "expiresAt": "2026-08-11T08:02:21Z",
+    "stats": {
+      "views": 198591,
+      "likes": 4038,
+      "shares": 109
+    }
+  },
+  {
+    "id": "sty_0111",
+    "creatorId": "crt_0026",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/111/0.mp4",
+        "durationMs": 9468,
+        "posterUrl": "https://picsum.photos/seed/sty111-0/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty111-1/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/111/2.mp4",
+        "durationMs": 7635,
+        "posterUrl": "https://picsum.photos/seed/sty111-2/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/111/3.mp4",
+        "durationMs": 11694,
+        "posterUrl": "https://picsum.photos/seed/sty111-3/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty111-4/720/1280",
+        "durationMs": 5000
+      }
+    ],
+    "caption": "Is it worth the hype? Honest review",
+    "taggedProducts": [
+      {
+        "productId": "prd_0187",
+        "segmentIndex": 1,
+        "x": 0.19,
+        "y": 0.24
+      },
+      {
+        "productId": "prd_0175",
+        "segmentIndex": 2,
+        "x": 0.8,
+        "y": 0.33
+      },
+      {
+        "productId": "prd_0007",
+        "segmentIndex": 3,
+        "x": 0.54,
+        "y": 0.39
+      }
+    ],
+    "publishedAt": "2026-09-08T08:01:44Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 154313,
+      "likes": 11713,
+      "shares": 39
+    }
+  },
+  {
+    "id": "sty_0112",
+    "creatorId": "crt_0017",
+    "segments": [
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty112-0/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty112-1/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty112-2/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty112-3/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty112-4/720/1280",
+        "durationMs": 5000
+      }
+    ],
+    "caption": "Behind the loom with the artisans",
+    "taggedProducts": [
+      {
+        "productId": "prd_0044",
+        "segmentIndex": 1,
+        "x": 0.29,
+        "y": 0.26
+      },
+      {
+        "productId": "prd_0086",
+        "segmentIndex": 2,
+        "x": 0.89,
+        "y": 0.08
+      },
+      {
+        "productId": "prd_0186",
+        "segmentIndex": 4,
+        "x": 0.25,
+        "y": 0.91
+      }
+    ],
+    "publishedAt": "2026-08-03T01:48:35Z",
+    "expiresAt": "2026-08-04T01:48:35Z",
+    "stats": {
+      "views": 187374,
+      "likes": 3905,
+      "shares": 218
+    }
+  },
+  {
+    "id": "sty_0113",
+    "creatorId": "crt_0002",
+    "segments": [
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty113-0/720/1280",
+        "durationMs": 5000
+      }
+    ],
+    "caption": "Is it worth the hype? Honest review",
+    "taggedProducts": [
+      {
+        "productId": "prd_0042",
+        "segmentIndex": 0,
+        "x": 0.24,
+        "y": 0.28
+      }
+    ],
+    "publishedAt": "2026-08-17T20:26:34Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 115420,
+      "likes": 590,
+      "shares": 2509
+    }
+  },
+  {
+    "id": "sty_0114",
+    "creatorId": "crt_0014",
+    "segments": [
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty114-0/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/114/1.mp4",
+        "durationMs": 6203,
+        "posterUrl": "https://picsum.photos/seed/sty114-1/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/114/2.mp4",
+        "durationMs": 11536,
+        "posterUrl": "https://picsum.photos/seed/sty114-2/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty114-3/720/1280",
+        "durationMs": 5000
+      }
+    ],
+    "caption": "Gifting ideas for Rakhi",
+    "taggedProducts": [
+      {
+        "productId": "prd_0190",
+        "segmentIndex": 0,
+        "x": 0.81,
+        "y": 0.2
+      },
+      {
+        "productId": "prd_0176",
+        "segmentIndex": 1,
+        "x": 0.75,
+        "y": 0.66
+      },
+      {
+        "productId": "prd_0187",
+        "segmentIndex": 3,
+        "x": 0.02,
+        "y": 0.31
+      }
+    ],
+    "publishedAt": "2026-08-15T20:06:45Z",
+    "expiresAt": "2026-08-16T20:06:45Z",
+    "stats": {
+      "views": 88383,
+      "likes": 240,
+      "shares": 1615
+    }
+  },
+  {
+    "id": "sty_0115",
+    "creatorId": "crt_0004",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/115/0.mp4",
+        "durationMs": 11029,
+        "posterUrl": "https://picsum.photos/seed/sty115-0/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/115/1.mp4",
+        "durationMs": 9695,
+        "posterUrl": "https://picsum.photos/seed/sty115-1/720/1280"
+      }
+    ],
+    "caption": "Unboxing my handmade haul",
+    "taggedProducts": [
+      {
+        "productId": "prd_0093",
+        "segmentIndex": 0,
+        "x": 0.8,
+        "y": 0.52
+      }
+    ],
+    "publishedAt": "2026-08-13T05:42:50Z",
+    "expiresAt": "2026-08-14T05:42:50Z",
+    "stats": {
+      "views": 2193,
+      "likes": 8902,
+      "shares": 2069
+    }
+  },
+  {
+    "id": "sty_0116",
+    "creatorId": "crt_0018",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/116/0.mp4",
+        "durationMs": 5336,
+        "posterUrl": "https://picsum.photos/seed/sty116-0/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty116-1/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/116/2.mp4",
+        "durationMs": 9673,
+        "posterUrl": "https://picsum.photos/seed/sty116-2/720/1280"
+      }
+    ],
+    "caption": "Unboxing my handmade haul",
+    "taggedProducts": [
+      {
+        "productId": "prd_0055",
+        "segmentIndex": 0,
+        "x": 0.14,
+        "y": 0.07
+      },
+      {
+        "productId": "prd_0012",
+        "segmentIndex": 1,
+        "x": 0.78,
+        "y": 0.68
+      },
+      {
+        "productId": "prd_0102",
+        "segmentIndex": 2,
+        "x": 0.45,
+        "y": 0.96
+      }
+    ],
+    "publishedAt": "2026-09-08T14:31:43Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 91608,
+      "likes": 13309,
+      "shares": 23
+    }
+  },
+  {
+    "id": "sty_0117",
+    "creatorId": "crt_0038",
+    "segments": [
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty117-0/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty117-1/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty117-2/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/117/3.mp4",
+        "durationMs": 7642,
+        "posterUrl": "https://picsum.photos/seed/sty117-3/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty117-4/720/1280",
+        "durationMs": 5000
+      }
+    ],
+    "caption": "Yeh kurta toh must-have hai!",
+    "taggedProducts": [
+      {
+        "productId": "prd_0030",
+        "segmentIndex": 0,
+        "x": 0.75,
+        "y": 0.52
+      },
+      {
+        "productId": "prd_0039",
+        "segmentIndex": 1,
+        "x": 0.33,
+        "y": 0.34
+      },
+      {
+        "productId": "prd_0068",
+        "segmentIndex": 2,
+        "x": 0.44,
+        "y": 0.02
+      },
+      {
+        "productId": "prd_0159",
+        "segmentIndex": 3,
+        "x": 0.95,
+        "y": 0.85
+      }
+    ],
+    "publishedAt": "2026-08-25T00:04:33Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 197442,
+      "likes": 18249,
+      "shares": 814
+    }
+  },
+  {
+    "id": "sty_0118",
+    "creatorId": "crt_0027",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/118/0.mp4",
+        "durationMs": 4790,
+        "posterUrl": "https://picsum.photos/seed/sty118-0/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty118-1/720/1280",
+        "durationMs": 5000
+      }
+    ],
+    "caption": "Is it worth the hype? Honest review",
+    "taggedProducts": [
+      {
+        "productId": "prd_0153",
+        "segmentIndex": 0,
+        "x": 0.7,
+        "y": 0.76
+      },
+      {
+        "productId": "prd_0077",
+        "segmentIndex": 1,
+        "x": 0.31,
+        "y": 0.09
+      }
+    ],
+    "publishedAt": "2026-08-16T21:49:48Z",
+    "expiresAt": null,
+    "stats": {
+      "views": 152975,
+      "likes": 11830,
+      "shares": 637
+    }
+  },
+  {
+    "id": "sty_0119",
+    "creatorId": "crt_0036",
+    "segments": [
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/119/0.mp4",
+        "durationMs": 6764,
+        "posterUrl": "https://picsum.photos/seed/sty119-0/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty119-1/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/119/2.mp4",
+        "durationMs": 7797,
+        "posterUrl": "https://picsum.photos/seed/sty119-2/720/1280"
+      }
+    ],
+    "caption": "Is it worth the hype? Honest review",
+    "taggedProducts": [
+      {
+        "productId": "prd_0116",
+        "segmentIndex": 0,
+        "x": 0.25,
+        "y": 0.98
+      },
+      {
+        "productId": "prd_0181",
+        "segmentIndex": 1,
+        "x": 0.5,
+        "y": 0.86
+      },
+      {
+        "productId": "prd_0129",
+        "segmentIndex": 2,
+        "x": 0.08,
+        "y": 0.53
+      }
+    ],
+    "publishedAt": "2026-09-04T08:05:00Z",
+    "expiresAt": "2026-09-05T08:05:00Z",
+    "stats": {
+      "views": 113896,
+      "likes": 11061,
+      "shares": 599
+    }
+  },
+  {
+    "id": "sty_0120",
+    "creatorId": "crt_0025",
+    "segments": [
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty120-0/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty120-1/720/1280",
+        "durationMs": 5000
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/120/2.mp4",
+        "durationMs": 12479,
+        "posterUrl": "https://picsum.photos/seed/sty120-2/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/120/3.mp4",
+        "durationMs": 5138,
+        "posterUrl": "https://picsum.photos/seed/sty120-3/720/1280"
+      },
+      {
+        "type": "video",
+        "url": "https://example-cdn.aumbram.dev/stories/120/4.mp4",
+        "durationMs": 13397,
+        "posterUrl": "https://picsum.photos/seed/sty120-4/720/1280"
+      },
+      {
+        "type": "image",
+        "url": "https://picsum.photos/seed/sty120-5/720/1280",
+        "durationMs": 5000
+      }
+    ],
+    "caption": "Styling this for Diwali 🪔",
+    "taggedProducts": [
+      {
+        "productId": "prd_0146",
+        "segmentIndex": 1,
+        "x": 0.46,
+        "y": 0.33
+      },
+      {
+        "productId": "prd_0055",
+        "segmentIndex": 2,
+        "x": 0.79,
+        "y": 0.21
+      },
+      {
+        "productId": "prd_0195",
+        "segmentIndex": 3,
+        "x": 0.94,
+        "y": 0.55
+      }
+    ],
+    "publishedAt": "2026-09-04T00:55:03Z",
+    "expiresAt": "2026-09-05T00:55:03Z",
+    "stats": {
+      "views": 132940,
+      "likes": 12824,
+      "shares": 2224
+    }
+  }
+]

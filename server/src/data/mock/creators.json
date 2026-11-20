@@ -1,0 +1,402 @@
+[
+  {
+    "id": "crt_0001",
+    "userId": "usr_000001",
+    "handle": "@ananya.desi0",
+    "displayName": "Ananya Singh",
+    "avatarUrl": "https://i.pravatar.cc/150?u=crt_1",
+    "followerCount": 577,
+    "commissionRateBps": 300,
+    "verified": false
+  },
+  {
+    "id": "crt_0002",
+    "userId": "usr_000002",
+    "handle": "@arjun.crafts1",
+    "displayName": "Arjun Khan",
+    "avatarUrl": "https://i.pravatar.cc/150?u=crt_2",
+    "followerCount": 1797,
+    "commissionRateBps": 1000,
+    "verified": false
+  },
+  {
+    "id": "crt_0003",
+    "userId": "usr_000003",
+    "handle": "@rohan.finds2",
+    "displayName": "Rohan Bose",
+    "avatarUrl": "https://i.pravatar.cc/150?u=crt_3",
+    "followerCount": 4507,
+    "commissionRateBps": 500,
+    "verified": true
+  },
+  {
+    "id": "crt_0004",
+    "userId": "usr_000004",
+    "handle": "@rohan.desi3",
+    "displayName": "Rohan Iyer",
+    "avatarUrl": "https://i.pravatar.cc/150?u=crt_4",
+    "followerCount": 3056,
+    "commissionRateBps": 500,
+    "verified": false
+  },
+  {
+    "id": "crt_0005",
+    "userId": "usr_000005",
+    "handle": "@meera.styles4",
+    "displayName": "Meera Bose",
+    "avatarUrl": "https://i.pravatar.cc/150?u=crt_5",
+    "followerCount": 7324,
+    "commissionRateBps": 500,
+    "verified": false
+  },
+  {
+    "id": "crt_0006",
+    "userId": "usr_000006",
+    "handle": "@farhan.crafts5",
+    "displayName": "Farhan Sharma",
+    "avatarUrl": "https://i.pravatar.cc/150?u=crt_6",
+    "followerCount": 27004,
+    "commissionRateBps": 300,
+    "verified": true
+  },
+  {
+    "id": "crt_0007",
+    "userId": "usr_000007",
+    "handle": "@meera.hauls6",
+    "displayName": "Meera Singh",
+    "avatarUrl": "https://i.pravatar.cc/150?u=crt_7",
+    "followerCount": 1269,
+    "commissionRateBps": 1000,
+    "verified": true
+  },
+  {
+    "id": "crt_0008",
+    "userId": "usr_000008",
+    "handle": "@lakshmi.desi7",
+    "displayName": "Lakshmi Patel",
+    "avatarUrl": "https://i.pravatar.cc/150?u=crt_8",
+    "followerCount": 495,
+    "commissionRateBps": 500,
+    "verified": false
+  },
+  {
+    "id": "crt_0009",
+    "userId": "usr_000009",
+    "handle": "@sana.styles8",
+    "displayName": "Sana Das",
+    "avatarUrl": "https://i.pravatar.cc/150?u=crt_9",
+    "followerCount": 4286,
+    "commissionRateBps": 700,
+    "verified": true
+  },
+  {
+    "id": "crt_0010",
+    "userId": "usr_000010",
+    "handle": "@meera.desi9",
+    "displayName": "Meera Das",
+    "avatarUrl": "https://i.pravatar.cc/150?u=crt_10",
+    "followerCount": 551,
+    "commissionRateBps": 500,
+    "verified": false
+  },
+  {
+    "id": "crt_0011",
+    "userId": "usr_000011",
+    "handle": "@zoya.hauls10",
+    "displayName": "Zoya Das",
+    "avatarUrl": "https://i.pravatar.cc/150?u=crt_11",
+    "followerCount": 561,
+    "commissionRateBps": 700,
+    "verified": false
+  },
+  {
+    "id": "crt_0012",
+    "userId": "usr_000012",
+    "handle": "@meera.desi11",
+    "displayName": "Meera Reddy",
+    "avatarUrl": "https://i.pravatar.cc/150?u=crt_12",
+    "followerCount": 647,
+    "commissionRateBps": 500,
+    "verified": false
+  },
+  {
+    "id": "crt_0013",
+    "userId": "usr_000013",
+    "handle": "@sana.desi12",
+    "displayName": "Sana Iyer",
+    "avatarUrl": "https://i.pravatar.cc/150?u=crt_13",
+    "followerCount": 2224,
+    "commissionRateBps": 300,
+    "verified": false
+  },
+  {
+    "id": "crt_0014",
+    "userId": "usr_000014",
+    "handle": "@farhan.finds13",
+    "displayName": "Farhan Iyer",
+    "avatarUrl": "https://i.pravatar.cc/150?u=crt_14",
+    "followerCount": 781,
+    "commissionRateBps": 500,
+    "verified": false
+  },
+  {
+    "id": "crt_0015",
+    "userId": "usr_000015",
+    "handle": "@vikram.crafts14",
+    "displayName": "Vikram Patel",
+    "avatarUrl": "https://i.pravatar.cc/150?u=crt_15",
+    "followerCount": 4932,
+    "commissionRateBps": 500,
+    "verified": true
+  },
+  {
+    "id": "crt_0016",
+    "userId": "usr_000016",
+    "handle": "@ananya.styles15",
+    "displayName": "Ananya Khan",
+    "avatarUrl": "https://i.pravatar.cc/150?u=crt_16",
+    "followerCount": 1109,
+    "commissionRateBps": 1000,
+    "verified": true
+  },
+  {
+    "id": "crt_0017",
+    "userId": "usr_000017",
+    "handle": "@sana.desi16",
+    "displayName": "Sana Iyer",
+    "avatarUrl": "https://i.pravatar.cc/150?u=crt_17",
+    "followerCount": 52823,
+    "commissionRateBps": 1000,
+    "verified": false
+  },
+  {
+    "id": "crt_0018",
+    "userId": "usr_000018",
+    "handle": "@arjun.finds17",
+    "displayName": "Arjun Bose",
+    "avatarUrl": "https://i.pravatar.cc/150?u=crt_18",
+    "followerCount": 94952,
+    "commissionRateBps": 300,
+    "verified": false
+  },
+  {
+    "id": "crt_0019",
+    "userId": "usr_000019",
+    "handle": "@ishita.hauls18",
+    "displayName": "Ishita Das",
+    "avatarUrl": "https://i.pravatar.cc/150?u=crt_19",
+    "followerCount": 2145,
+    "commissionRateBps": 1000,
+    "verified": true
+  },
+  {
+    "id": "crt_0020",
+    "userId": "usr_000020",
+    "handle": "@sana.hauls19",
+    "displayName": "Sana Das",
+    "avatarUrl": "https://i.pravatar.cc/150?u=crt_20",
+    "followerCount": 1124,
+    "commissionRateBps": 500,
+    "verified": false
+  },
+  {
+    "id": "crt_0021",
+    "userId": "usr_000021",
+    "handle": "@zoya.finds20",
+    "displayName": "Zoya Sharma",
+    "avatarUrl": "https://i.pravatar.cc/150?u=crt_21",
+    "followerCount": 6447,
+    "commissionRateBps": 1000,
+    "verified": true
+  },
+  {
+    "id": "crt_0022",
+    "userId": "usr_000022",
+    "handle": "@aditya.finds21",
+    "displayName": "Aditya Patel",
+    "avatarUrl": "https://i.pravatar.cc/150?u=crt_22",
+    "followerCount": 1029,
+    "commissionRateBps": 300,
+    "verified": true
+  },
+  {
+    "id": "crt_0023",
+    "userId": "usr_000023",
+    "handle": "@vikram.weaves22",
+    "displayName": "Vikram Reddy",
+    "avatarUrl": "https://i.pravatar.cc/150?u=crt_23",
+    "followerCount": 527,
+    "commissionRateBps": 300,
+    "verified": false
+  },
+  {
+    "id": "crt_0024",
+    "userId": "usr_000024",
+    "handle": "@ananya.weaves23",
+    "displayName": "Ananya Patel",
+    "avatarUrl": "https://i.pravatar.cc/150?u=crt_24",
+    "followerCount": 3038,
+    "commissionRateBps": 500,
+    "verified": false
+  },
+  {
+    "id": "crt_0025",
+    "userId": "usr_000025",
+    "handle": "@rohan.crafts24",
+    "displayName": "Rohan Sharma",
+    "avatarUrl": "https://i.pravatar.cc/150?u=crt_25",
+    "followerCount": 1328,
+    "commissionRateBps": 500,
+    "verified": false
+  },
+  {
+    "id": "crt_0026",
+    "userId": "usr_000026",
+    "handle": "@ishita.desi25",
+    "displayName": "Ishita Bose",
+    "avatarUrl": "https://i.pravatar.cc/150?u=crt_26",
+    "followerCount": 1226,
+    "commissionRateBps": 700,
+    "verified": false
+  },
+  {
+    "id": "crt_0027",
+    "userId": "usr_000027",
+    "handle": "@ananya.desi26",
+    "displayName": "Ananya Singh",
+    "avatarUrl": "https://i.pravatar.cc/150?u=crt_27",
+    "followerCount": 856,
+    "commissionRateBps": 700,
+    "verified": false
+  },
+  {
+    "id": "crt_0028",
+    "userId": "usr_000028",
+    "handle": "@aditya.hauls27",
+    "displayName": "Aditya Iyer",
+    "avatarUrl": "https://i.pravatar.cc/150?u=crt_28",
+    "followerCount": 2542,
+    "commissionRateBps": 500,
+    "verified": false
+  },
+  {
+    "id": "crt_0029",
+    "userId": "usr_000029",
+    "handle": "@arjun.styles28",
+    "displayName": "Arjun Das",
+    "avatarUrl": "https://i.pravatar.cc/150?u=crt_29",
+    "followerCount": 9053,
+    "commissionRateBps": 700,
+    "verified": true
+  },
+  {
+    "id": "crt_0030",
+    "userId": "usr_000030",
+    "handle": "@vikram.crafts29",
+    "displayName": "Vikram Iyer",
+    "avatarUrl": "https://i.pravatar.cc/150?u=crt_30",
+    "followerCount": 18090,
+    "commissionRateBps": 500,
+    "verified": false
+  },
+  {
+    "id": "crt_0031",
+    "userId": "usr_000031",
+    "handle": "@rohan.weaves30",
+    "displayName": "Rohan Reddy",
+    "avatarUrl": "https://i.pravatar.cc/150?u=crt_31",
+    "followerCount": 2950,
+    "commissionRateBps": 1000,
+    "verified": false
+  },
+  {
+    "id": "crt_0032",
+    "userId": "usr_000032",
+    "handle": "@vikram.desi31",
+    "displayName": "Vikram Iyer",
+    "avatarUrl": "https://i.pravatar.cc/150?u=crt_32",
+    "followerCount": 868,
+    "commissionRateBps": 300,
+    "verified": true
+  },
+  {
+    "id": "crt_0033",
+    "userId": "usr_000033",
+    "handle": "@nandini.crafts32",
+    "displayName": "Nandini Bose",
+    "avatarUrl": "https://i.pravatar.cc/150?u=crt_33",
+    "followerCount": 2082,
+    "commissionRateBps": 500,
+    "verified": false
+  },
+  {
+    "id": "crt_0034",
+    "userId": "usr_000034",
+    "handle": "@sana.desi33",
+    "displayName": "Sana Khan",
+    "avatarUrl": "https://i.pravatar.cc/150?u=crt_34",
+    "followerCount": 12786,
+    "commissionRateBps": 500,
+    "verified": false
+  },
+  {
+    "id": "crt_0035",
+    "userId": "usr_000035",
+    "handle": "@vikram.weaves34",
+    "displayName": "Vikram Sharma",
+    "avatarUrl": "https://i.pravatar.cc/150?u=crt_35",
+    "followerCount": 21803,
+    "commissionRateBps": 700,
+    "verified": false
+  },
+  {
+    "id": "crt_0036",
+    "userId": "usr_000036",
+    "handle": "@farhan.weaves35",
+    "displayName": "Farhan Das",
+    "avatarUrl": "https://i.pravatar.cc/150?u=crt_36",
+    "followerCount": 1169,
+    "commissionRateBps": 500,
+    "verified": true
+  },
+  {
+    "id": "crt_0037",
+    "userId": "usr_000037",
+    "handle": "@dev.crafts36",
+    "displayName": "Dev Reddy",
+    "avatarUrl": "https://i.pravatar.cc/150?u=crt_37",
+    "followerCount": 3268,
+    "commissionRateBps": 500,
+    "verified": false
+  },
+  {
+    "id": "crt_0038",
+    "userId": "usr_000038",
+    "handle": "@zoya.crafts37",
+    "displayName": "Zoya Bose",
+    "avatarUrl": "https://i.pravatar.cc/150?u=crt_38",
+    "followerCount": 10743,
+    "commissionRateBps": 500,
+    "verified": false
+  },
+  {
+    "id": "crt_0039",
+    "userId": "usr_000039",
+    "handle": "@sana.hauls38",
+    "displayName": "Sana Khan",
+    "avatarUrl": "https://i.pravatar.cc/150?u=crt_39",
+    "followerCount": 4333,
+    "commissionRateBps": 500,
+    "verified": false
+  },
+  {
+    "id": "crt_0040",
+    "userId": "usr_000040",
+    "handle": "@nandini.crafts39",
+    "displayName": "Nandini Khan",
+    "avatarUrl": "https://i.pravatar.cc/150?u=crt_40",
+    "followerCount": 7559,
+    "commissionRateBps": 700,
+    "verified": false
+  }
+]

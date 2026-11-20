@@ -1,0 +1,367 @@
+[
+  {
+    "id": "vnd_0001",
+    "name": "Pune Karigar",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "gstin": null,
+    "rating": 3.4,
+    "codEnabled": true,
+    "serviceablePincodePrefixes": [
+      "41",
+      "37",
+      "78",
+      "22",
+      "68"
+    ]
+  },
+  {
+    "id": "vnd_0002",
+    "name": "Jaipur Naturals",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "gstin": "08ABCDE5759F1Z2",
+    "rating": 4.3,
+    "codEnabled": true,
+    "serviceablePincodePrefixes": [
+      "30",
+      "56"
+    ]
+  },
+  {
+    "id": "vnd_0003",
+    "name": "Guwahati Bazaar",
+    "city": "Guwahati",
+    "state": "Assam",
+    "gstin": null,
+    "rating": 3.5,
+    "codEnabled": true,
+    "serviceablePincodePrefixes": [
+      "78",
+      "75",
+      "41",
+      "22",
+      "56"
+    ]
+  },
+  {
+    "id": "vnd_0004",
+    "name": "Kolkata Studio",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "gstin": "08ABCDE2612F1Z7",
+    "rating": 4.7,
+    "codEnabled": true,
+    "serviceablePincodePrefixes": [
+      "70",
+      "11"
+    ]
+  },
+  {
+    "id": "vnd_0005",
+    "name": "Jaipur Naturals",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "gstin": "08ABCDE0799F1Z9",
+    "rating": 3.7,
+    "codEnabled": false,
+    "serviceablePincodePrefixes": [
+      "30",
+      "22",
+      "70",
+      "41"
+    ]
+  },
+  {
+    "id": "vnd_0006",
+    "name": "Bhubaneswar Karigar",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "gstin": "08ABCDE0875F1Z9",
+    "rating": 5,
+    "codEnabled": false,
+    "serviceablePincodePrefixes": [
+      "75",
+      "11",
+      "41",
+      "22",
+      "37"
+    ]
+  },
+  {
+    "id": "vnd_0007",
+    "name": "Bhubaneswar Haat",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "gstin": "08ABCDE1034F1Z7",
+    "rating": 4,
+    "codEnabled": true,
+    "serviceablePincodePrefixes": [
+      "75",
+      "78"
+    ]
+  },
+  {
+    "id": "vnd_0008",
+    "name": "Kutch Kala",
+    "city": "Kutch",
+    "state": "Gujarat",
+    "gstin": null,
+    "rating": 4.3,
+    "codEnabled": true,
+    "serviceablePincodePrefixes": [
+      "37",
+      "11",
+      "41",
+      "22",
+      "75",
+      "68"
+    ]
+  },
+  {
+    "id": "vnd_0009",
+    "name": "Kochi Studio",
+    "city": "Kochi",
+    "state": "Kerala",
+    "gstin": "08ABCDE0521F1Z4",
+    "rating": 3.3,
+    "codEnabled": true,
+    "serviceablePincodePrefixes": [
+      "68",
+      "22",
+      "30",
+      "41"
+    ]
+  },
+  {
+    "id": "vnd_0010",
+    "name": "Bengaluru Looms",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "gstin": "08ABCDE8366F1Z9",
+    "rating": 3.5,
+    "codEnabled": true,
+    "serviceablePincodePrefixes": [
+      "56",
+      "68"
+    ]
+  },
+  {
+    "id": "vnd_0011",
+    "name": "Kolkata Looms",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "gstin": null,
+    "rating": 4.8,
+    "codEnabled": true,
+    "serviceablePincodePrefixes": [
+      "70",
+      "30",
+      "68",
+      "75"
+    ]
+  },
+  {
+    "id": "vnd_0012",
+    "name": "Lucknow Karigar",
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "gstin": "08ABCDE6019F1Z9",
+    "rating": 3.9,
+    "codEnabled": true,
+    "serviceablePincodePrefixes": [
+      "22",
+      "56",
+      "78"
+    ]
+  },
+  {
+    "id": "vnd_0013",
+    "name": "Varanasi Kala",
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "gstin": null,
+    "rating": 4.1,
+    "codEnabled": true,
+    "serviceablePincodePrefixes": [
+      "22",
+      "56"
+    ]
+  },
+  {
+    "id": "vnd_0014",
+    "name": "Jaipur Kala",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "gstin": "08ABCDE6807F1Z5",
+    "rating": 4.4,
+    "codEnabled": true,
+    "serviceablePincodePrefixes": [
+      "30",
+      "70",
+      "22",
+      "41",
+      "75",
+      "68",
+      "56"
+    ]
+  },
+  {
+    "id": "vnd_0015",
+    "name": "Bagru Weaves",
+    "city": "Bagru",
+    "state": "Rajasthan",
+    "gstin": "08ABCDE9923F1Z9",
+    "rating": 3.7,
+    "codEnabled": true,
+    "serviceablePincodePrefixes": [
+      "30",
+      "11",
+      "70"
+    ]
+  },
+  {
+    "id": "vnd_0016",
+    "name": "Kolkata Collective",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "gstin": "08ABCDE5321F1Z6",
+    "rating": 4.1,
+    "codEnabled": true,
+    "serviceablePincodePrefixes": [
+      "70",
+      "37",
+      "78",
+      "68"
+    ]
+  },
+  {
+    "id": "vnd_0017",
+    "name": "Kolkata Looms",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "gstin": "08ABCDE8557F1Z6",
+    "rating": 4.7,
+    "codEnabled": true,
+    "serviceablePincodePrefixes": [
+      "70",
+      "11",
+      "75"
+    ]
+  },
+  {
+    "id": "vnd_0018",
+    "name": "Guwahati Looms",
+    "city": "Guwahati",
+    "state": "Assam",
+    "gstin": "08ABCDE7190F1Z2",
+    "rating": 4.6,
+    "codEnabled": false,
+    "serviceablePincodePrefixes": [
+      "78",
+      "41"
+    ]
+  },
+  {
+    "id": "vnd_0019",
+    "name": "Guwahati Weaves",
+    "city": "Guwahati",
+    "state": "Assam",
+    "gstin": "08ABCDE4143F1Z6",
+    "rating": 4.9,
+    "codEnabled": true,
+    "serviceablePincodePrefixes": [
+      "78",
+      "22"
+    ]
+  },
+  {
+    "id": "vnd_0020",
+    "name": "Kochi Naturals",
+    "city": "Kochi",
+    "state": "Kerala",
+    "gstin": null,
+    "rating": 3.9,
+    "codEnabled": true,
+    "serviceablePincodePrefixes": [
+      "68",
+      "75",
+      "78",
+      "41"
+    ]
+  },
+  {
+    "id": "vnd_0021",
+    "name": "Varanasi Naturals",
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "gstin": "08ABCDE8834F1Z9",
+    "rating": 4.5,
+    "codEnabled": false,
+    "serviceablePincodePrefixes": [
+      "22",
+      "11",
+      "75",
+      "78",
+      "30"
+    ]
+  },
+  {
+    "id": "vnd_0022",
+    "name": "Bagru Karigar",
+    "city": "Bagru",
+    "state": "Rajasthan",
+    "gstin": "08ABCDE4993F1Z6",
+    "rating": 3.4,
+    "codEnabled": true,
+    "serviceablePincodePrefixes": [
+      "30",
+      "22",
+      "68",
+      "41"
+    ]
+  },
+  {
+    "id": "vnd_0023",
+    "name": "Jaipur Kala",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "gstin": "08ABCDE7370F1Z3",
+    "rating": 4.8,
+    "codEnabled": false,
+    "serviceablePincodePrefixes": [
+      "30",
+      "11",
+      "70",
+      "75"
+    ]
+  },
+  {
+    "id": "vnd_0024",
+    "name": "Bagru Collective",
+    "city": "Bagru",
+    "state": "Rajasthan",
+    "gstin": "08ABCDE9123F1Z1",
+    "rating": 3.6,
+    "codEnabled": false,
+    "serviceablePincodePrefixes": [
+      "30",
+      "68",
+      "78"
+    ]
+  },
+  {
+    "id": "vnd_0025",
+    "name": "Kochi Weaves",
+    "city": "Kochi",
+    "state": "Kerala",
+    "gstin": "08ABCDE8399F1Z9",
+    "rating": 4.8,
+    "codEnabled": true,
+    "serviceablePincodePrefixes": [
+      "68",
+      "41",
+      "70"
+    ]
+  }
+]
